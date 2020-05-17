@@ -1,0 +1,193 @@
+2017/05/02 20:27:48 Populate dia 
+2017/05/02 20:27:48 Populate events 
+2017/05/02 20:27:50 Populate gil 
+2017/05/02 20:28:06 Populate news 
+2017/05/02 20:28:09 Shuffle news 
+2017/05/02 20:28:10 Populate calendar 
+2017/05/02 20:28:12 Populate weather main 
+2017/05/02 20:28:15 Populate emprestimos 
+2017/05/02 20:28:17 Populate messages 
+2017/05/02 20:28:24 Acessou mapa 
+2017/05/02 20:28:32 Aplicou cartoons 
+2017/05/02 20:28:32 Baixou cartoons 
+2017/05/02 21:05:00 Populate weather main 
+2017/05/02 22:05:01 Populate weather main 
+2017/05/02 23:05:00 Populate weather main 
+2017/05/03 00:00:01 Populate dia 
+2017/05/03 00:00:02 Populate events 
+2017/05/03 00:00:02 Populate gil 
+2017/05/03 00:00:03 Populate news 
+2017/05/03 00:00:05 Shuffle news 
+2017/05/03 00:00:07 Populate calendar 
+2017/05/03 00:00:10 Populate emprestimos 
+2017/05/03 00:00:12 Populate messages 
+2017/05/03 00:00:15 Aplicou cartoons 
+2017/05/03 00:05:01 Populate weather main 
+2017/05/03 01:05:00 Populate weather main 
+2017/05/03 02:05:01 Populate weather main 
+2017/05/03 03:05:00 Populate weather main 
+2017/05/03 04:00:02 Shuffle news 
+2017/05/03 04:05:01 Populate weather main 
+2017/05/03 05:05:00 Populate weather main 
+2017/05/03 06:05:01 Populate weather main 
+2017/05/03 07:00:00 Mostra transito comp 
+2017/05/03 07:00:01 Populate transito 
+2017/05/03 07:00:01 Populate transito stat 
+2017/05/03 07:05:00 Populate weather main 
+2017/05/03 07:30:01 Populate transito 
+2017/05/03 07:30:01 Populate transito stat 
+2017/05/03 08:00:01 Populate transito 
+2017/05/03 08:00:01 Populate transito stat 
+2017/05/03 08:00:03 Shuffle news 
+2017/05/03 08:05:02 Populate weather main 
+2017/05/03 08:30:01 Populate transito 
+2017/05/03 08:30:01 Populate transito stat 
+2017/05/03 09:00:03 Populate transito 
+2017/05/03 09:00:03 Populate transito stat 
+2017/05/03 09:05:00 Populate weather main 
+2017/05/03 09:30:01 Populate transito 
+2017/05/03 09:30:02 Populate transito stat 
+2017/05/03 10:00:01 Populate transito 
+2017/05/03 10:00:01 Populate transito stat 
+2017/05/03 10:05:01 Populate weather main 
+2017/05/03 10:30:02 Populate transito 
+2017/05/03 10:30:02 Populate transito stat 
+2017/05/03 11:00:01 Populate transito 
+2017/05/03 11:00:01 Populate transito stat 
+2017/05/03 11:05:00 Populate weather main 
+2017/05/03 11:30:10 Populate transito 
+2017/05/03 11:30:10 Populate transito stat 
+2017/05/03 12:00:00 Mostra eventos 
+2017/05/03 12:00:00 Populate events 
+2017/05/03 12:00:02 Shuffle news 
+2017/05/03 12:05:01 Populate weather main 
+2017/05/03 13:05:00 Populate weather main 
+2017/05/03 14:05:02 Populate weather main 
+2017/05/03 15:05:00 Populate weather main 
+2017/05/03 16:00:02 Shuffle news 
+2017/05/03 16:05:01 Populate weather main 
+2017/05/03 16:46:08 Aplicou cartoons 
+2017/05/03 16:46:09 Aplicou cartoons 
+2017/05/03 16:46:21 Aplicou cartoons 
+2017/05/03 16:46:23 Aplicou cartoons 
+2017/05/03 16:46:32 Refresh map 
+2017/05/03 16:46:39 Aplicou cartoons 
+2017/05/03 16:46:48 Refresh map 
+2017/05/03 17:05:00 Populate weather main 
+2017/05/03 18:05:02 Populate weather main 
+2017/05/03 19:05:00 Populate weather main 
+2017/05/03 20:00:02 Shuffle news 
+2017/05/03 20:05:01 Populate weather main 
+2017/05/03 21:05:00 Populate weather main 
+2017/05/03 22:05:02 Populate weather main 
+2017/05/03 23:05:00 Populate weather main 
+2017/05/04 00:00:01 Populate dia 
+2017/05/04 00:00:01 Populate events 
+2017/05/04 00:00:02 Populate gil 
+2017/05/04 00:00:03 Populate news 
+2017/05/04 00:00:05 Shuffle news 
+2017/05/04 00:00:08 Populate calendar 
+2017/05/04 00:00:12 Populate emprestimos 
+2017/05/04 00:00:15 Populate messages 
+2017/05/04 00:00:54 Aplicou cartoons 
+2017/05/04 00:05:01 Populate weather main 
+2017/05/04 01:05:00 Populate weather main 
+2017/05/04 02:05:01 Populate weather main 
+2017/05/04 03:05:00 Populate weather main 
+2017/05/04 04:00:02 Shuffle news 
+2017/05/04 04:05:01 Populate weather main 
+2017/05/04 05:05:00 Populate weather main 
+2017/05/04 06:05:01 Populate weather main 
+2017/05/04 07:00:00 Mostra transito comp 
+2017/05/04 07:00:01 Populate transito 
+2017/05/04 07:00:01 Populate transito stat 
+2017/05/04 07:05:00 Populate weather main 
+2017/05/04 07:30:01 Populate transito 
+2017/05/04 07:30:01 Populate transito stat 
+2017/05/04 08:00:01 Populate transito 
+2017/05/04 08:00:01 Populate transito stat 
+2017/05/04 08:00:03 Shuffle news 
+2017/05/04 08:05:01 Populate weather main 
+2017/05/04 08:30:01 Populate transito 
+2017/05/04 08:30:01 Populate transito stat 
+2017/05/04 09:00:02 Populate transito 
+2017/05/04 09:00:02 Populate transito stat 
+2017/05/04 09:05:00 Populate weather main 
+2017/05/04 09:30:01 Populate transito 
+2017/05/04 09:30:01 Populate transito stat 
+2017/05/04 10:00:01 Populate transito 
+2017/05/04 10:00:01 Populate transito stat 
+2017/05/04 10:05:01 Populate weather main 
+2017/05/04 10:30:01 Populate transito 
+2017/05/04 10:30:01 Populate transito stat 
+2017/05/04 11:00:01 Populate transito 
+2017/05/04 11:00:01 Populate transito stat 
+2017/05/04 11:05:00 Populate weather main 
+2017/05/04 11:30:01 Populate transito 
+2017/05/04 11:30:01 Populate transito stat 
+2017/05/04 12:00:00 Mostra eventos 
+2017/05/04 12:00:00 Populate events 
+2017/05/04 12:00:02 Shuffle news 
+2017/05/04 12:05:01 Populate weather main 
+2017/05/04 13:05:00 Populate weather main 
+2017/05/04 14:05:01 Populate weather main 
+2017/05/04 15:05:00 Populate weather main 
+2017/05/04 16:00:02 Shuffle news 
+2017/05/04 16:05:01 Populate weather main 
+2017/05/04 17:05:00 Populate weather main 
+2017/05/04 18:05:02 Populate weather main 
+2017/05/04 19:05:00 Populate weather main 
+2017/05/04 20:00:02 Shuffle news 
+2017/05/04 20:05:01 Populate weather main 
+2017/05/04 21:05:00 Populate weather main 
+2017/05/04 22:05:18 Populate weather main 
+2017/05/04 23:05:00 Populate weather main 
+2017/05/05 00:00:01 Populate dia 
+2017/05/05 00:00:02 Populate events 
+2017/05/05 00:00:02 Populate gil 
+2017/05/05 00:00:18 Populate news 
+2017/05/05 00:00:20 Shuffle news 
+2017/05/05 00:00:24 Populate calendar 
+2017/05/05 00:00:30 Populate emprestimos 
+2017/05/05 00:00:32 Populate messages 
+2017/05/05 00:01:09 Aplicou cartoons 
+2017/05/05 00:05:02 Populate weather main 
+2017/05/05 01:05:00 Populate weather main 
+2017/05/05 02:05:01 Populate weather main 
+2017/05/05 03:05:00 Populate weather main 
+2017/05/05 04:00:02 Shuffle news 
+2017/05/05 04:05:01 Populate weather main 
+2017/05/05 05:05:00 Populate weather main 
+2017/05/05 06:05:01 Populate weather main 
+2017/05/05 07:00:00 Mostra transito comp 
+2017/05/05 07:00:01 Populate transito 
+2017/05/05 07:00:01 Populate transito stat 
+2017/05/05 07:05:00 Populate weather main 
+2017/05/05 07:30:01 Populate transito 
+2017/05/05 07:30:01 Populate transito stat 
+2017/05/05 08:00:01 Populate transito 
+2017/05/05 08:00:01 Populate transito stat 
+2017/05/05 08:00:03 Shuffle news 
+2017/05/05 08:05:01 Populate weather main 
+2017/05/05 08:30:01 Populate transito 
+2017/05/05 08:30:01 Populate transito stat 
+2017/05/05 09:00:01 Populate transito 
+2017/05/05 09:00:01 Populate transito stat 
+2017/05/05 09:05:00 Populate weather main 
+2017/05/05 09:30:01 Populate transito 
+2017/05/05 09:30:01 Populate transito stat 
+2017/05/05 10:00:01 Populate transito 
+2017/05/05 10:00:01 Populate transito stat 
+2017/05/05 10:05:01 Populate weather main 
+2017/05/05 10:30:01 Populate transito 
+2017/05/05 10:30:01 Populate transito stat 
+2017/05/05 11:00:01 Populate transito 
+2017/05/05 11:00:01 Populate transito stat 
+2017/05/05 11:05:00 Populate weather main 
+2017/05/05 11:30:01 Populate transito 
+2017/05/05 11:30:01 Populate transito stat 
+2017/05/05 12:00:00 Mostra eventos 
+2017/05/05 12:00:00 Populate events 
+2017/05/05 12:00:02 Shuffle news 
+2017/05/05 12:05:01 Populate weather main 
+2017/05/05 13:05:00 Populate weather main 

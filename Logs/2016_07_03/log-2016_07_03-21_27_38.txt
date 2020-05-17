@@ -1,0 +1,6 @@
+2016/07/03 21:27:38 Populate dia 
+2016/07/03 21:27:38 Populate events 
+2016/07/03 21:27:38 Populate gil 
+2016/07/03 21:27:38 Populate news 
+2016/07/03 21:27:38 Shuffle news 
+2016/07/03 21:27:38 Populate calendar 

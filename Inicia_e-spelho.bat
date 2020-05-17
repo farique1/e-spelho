@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\AutoIt3\SciTE\SciTE.exe" "-open C:\Users\e-spelho\Mirror\e-spelho-19.au3" "-menucommand:\303"

@@ -1,0 +1,69 @@
+2016/06/13 00:44:01 Populate dia 
+2016/06/13 00:44:02 Populate events 
+2016/06/13 00:44:02 Populate gil 
+2016/06/13 00:44:03 Populate news 
+2016/06/13 00:44:05 Populate calendar 
+2016/06/13 00:44:05 Populate weather main 
+2016/06/13 00:44:06 Populate weather forecast 
+2016/06/13 00:44:10 Populate emprestimos 
+2016/06/13 00:44:12 Populate messages 
+2016/06/13 00:44:12 Populate weather main 
+2016/06/13 01:00:00 Refresh weather forecast 
+2016/06/13 02:00:00 Refresh weather forecast 
+2016/06/13 03:00:00 Refresh weather forecast 
+2016/06/13 03:16:00 Populate weather main 
+2016/06/13 04:00:00 Refresh weather forecast 
+2016/06/13 05:00:00 Refresh weather forecast 
+2016/06/13 06:00:00 Refresh weather forecast 
+2016/06/13 06:16:00 Populate weather main 
+2016/06/13 07:00:00 Mostra transito comp 
+2016/06/13 07:00:02 Populate transito 
+2016/06/13 07:00:02 Populate transito stat 
+2016/06/13 07:00:02 Refresh weather forecast 
+2016/06/13 07:30:00 Populate transito 
+2016/06/13 07:30:00 Populate transito stat 
+2016/06/13 08:00:00 Populate transito 
+2016/06/13 08:00:00 Populate transito stat 
+2016/06/13 08:00:00 Refresh weather forecast 
+2016/06/13 08:30:00 Populate transito 
+2016/06/13 08:30:00 Populate transito stat 
+2016/06/13 09:00:00 Populate transito 
+2016/06/13 09:00:00 Populate transito stat 
+2016/06/13 09:00:00 Refresh weather forecast 
+2016/06/13 09:16:00 Populate weather main 
+2016/06/13 09:30:00 Populate transito 
+2016/06/13 09:30:01 Populate transito stat 
+2016/06/13 10:00:00 Populate transito 
+2016/06/13 10:00:00 Populate transito stat 
+2016/06/13 10:00:01 Refresh weather forecast 
+2016/06/13 10:30:00 Populate transito 
+2016/06/13 10:30:00 Populate transito stat 
+2016/06/13 11:00:00 Populate transito 
+2016/06/13 11:00:00 Populate transito stat 
+2016/06/13 11:00:01 Refresh weather forecast 
+2016/06/13 11:30:01 Populate transito 
+2016/06/13 11:30:01 Populate transito stat 
+2016/06/13 12:00:00 Mostra eventos 
+2016/06/13 12:00:00 Populate events 
+2016/06/13 12:00:00 Refresh weather forecast 
+2016/06/13 12:16:00 Populate weather main 
+2016/06/13 13:00:00 Refresh weather forecast 
+2016/06/13 14:00:00 Refresh weather forecast 
+2016/06/13 15:00:00 Refresh weather forecast 
+2016/06/13 15:16:00 Populate weather main 
+2016/06/13 16:00:00 Refresh weather forecast 
+2016/06/13 17:00:00 Refresh weather forecast 
+2016/06/13 18:00:00 Refresh weather forecast 
+2016/06/13 18:16:00 Populate weather main 
+2016/06/13 19:00:00 Refresh weather forecast 
+2016/06/13 20:00:00 Refresh weather forecast 
+2016/06/13 21:00:00 Refresh weather forecast 
+2016/06/13 21:16:00 Populate weather main 
+2016/06/13 22:00:00 Refresh weather forecast 
+2016/06/13 23:00:00 Refresh weather forecast 
+2016/06/14 00:00:00 Refresh weather forecast 
+2016/06/14 00:00:01 Populate dia 
+2016/06/14 00:00:01 Populate events 
+2016/06/14 00:00:01 Populate gil 
+2016/06/14 00:00:03 Populate news 
+2016/06/14 00:00:04 Populate calendar 

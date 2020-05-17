@@ -1,0 +1,52 @@
+2016/11/28 22:45:13 Populate dia 
+2016/11/28 22:45:13 Populate events 
+2016/11/28 22:45:14 Populate gil 
+2016/11/28 22:45:16 Populate news 
+2016/11/28 22:45:18 Shuffle news 
+2016/11/28 22:45:20 Populate calendar 
+2016/11/28 22:45:23 Populate weather main 
+2016/11/28 22:45:26 Populate emprestimos 
+2016/11/28 22:45:27 Populate messages 
+2016/11/28 22:45:42 Acessou mapa 
+2016/11/28 22:45:57 Aplicou cartoons 
+2016/11/28 22:45:57 Baixou cartoons 
+2016/11/28 23:05:00 Populate weather main 
+2016/11/29 00:00:00 Populate dia 
+2016/11/29 00:00:01 Populate events 
+2016/11/29 00:00:01 Populate gil 
+2016/11/29 00:00:02 Populate news 
+2016/11/29 00:00:04 Shuffle news 
+2016/11/29 00:00:05 Populate calendar 
+2016/11/29 00:00:08 Populate emprestimos 
+2016/11/29 00:00:09 Populate messages 
+2016/11/29 00:00:12 Aplicou cartoons 
+2016/11/29 00:05:01 Populate weather main 
+2016/11/29 01:05:00 Populate weather main 
+2016/11/29 02:05:01 Populate weather main 
+2016/11/29 03:05:00 Populate weather main 
+2016/11/29 04:00:02 Shuffle news 
+2016/11/29 04:05:01 Populate weather main 
+2016/11/29 05:05:00 Populate weather main 
+2016/11/29 06:05:01 Populate weather main 
+2016/11/29 07:00:00 Mostra transito comp 
+2016/11/29 07:00:01 Populate transito 
+2016/11/29 07:00:01 Populate transito stat 
+2016/11/29 07:05:00 Populate weather main 
+2016/11/29 07:30:01 Populate transito 
+2016/11/29 07:30:01 Populate transito stat 
+2016/11/29 08:00:01 Populate transito 
+2016/11/29 08:00:01 Populate transito stat 
+2016/11/29 08:00:03 Shuffle news 
+2016/11/29 08:05:01 Populate weather main 
+2016/11/29 08:30:01 Populate transito 
+2016/11/29 08:30:01 Populate transito stat 
+2016/11/29 09:00:01 Populate transito 
+2016/11/29 09:00:01 Populate transito stat 
+2016/11/29 09:05:00 Populate weather main 
+2016/11/29 09:30:01 Populate transito 
+2016/11/29 09:30:01 Populate transito stat 
+2016/11/29 10:00:01 Populate transito 
+2016/11/29 10:00:01 Populate transito stat 
+2016/11/29 10:05:02 Populate weather main 
+2016/11/29 10:30:01 Populate transito 
+2016/11/29 10:30:01 Populate transito stat 

@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>All Top News -- ScienceDaily</title>
+		<link>https://www.sciencedaily.com/news/top/</link>
+		<description>Top science stories featured on ScienceDaily's home page.</description>
+		<language>en-us</language>
+		<pubDate>Wed, 29 Jun 2016 19:24:01 EDT</pubDate>
+		<lastBuildDate>Wed, 29 Jun 2016 19:24:01 EDT</lastBuildDate>
+		<ttl>60</ttl>
+		<image>
+			<title>All Top News -- ScienceDaily</title>
+			<url>https://www.sciencedaily.com/images/scidaily-logo-rss.png</url>
+			<link>https://www.sciencedaily.com/news/top/</link>
+			<description>For more science news, visit ScienceDaily.</description>
+		</image>
+		<atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" href="https://rss.sciencedaily.com/top.xml" type="application/rss+xml" />
+		<item>
+			<title>Current stimulation to the brain partially restores vision in patients with glaucoma and optic nerve damage</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160629145208.htm</link>
+			<description>Vision loss due to glaucoma or optic nerve damage is generally considered irreversible. Now a new prospective, randomized, multi-center clinical trial demonstrates significant vision improvement in partially blind patients after 10 days of noninvasive, transorbital alternating current stimulation. In addition to activation of their residual vision, patients also experienced improvement in vision-related quality of life such as acuity, reading, mobility or orientation. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160629145208.jpg" height="198" width="300" />
+			<pubDate>Wed, 29 Jun 2016 14:52:08 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160629145208.htm</guid>
+		</item>
+		<item>
+			<title>Little to no association between butter consumption, chronic disease or total mortality</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160629145200.htm</link>
+			<description>An epidemiological study analyzing the association of butter consumption with chronic disease and mortality finds that butter was only weakly associated with total mortality, not associated with heart disease, and slightly inversely associated (protective) with diabetes. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160629145200.jpg" height="195" width="300" />
+			<pubDate>Wed, 29 Jun 2016 14:52:00 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160629145200.htm</guid>
+		</item>
+		<item>
+			<title>Climate study finds human fingerprint in Northern Hemisphere greening</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160629135813.htm</link>
+			<description>The first positive correlation between human activity and enhanced vegetation growth has been uncovered by a team of researchers. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160629135813.jpg" height="154" width="300" />
+			<pubDate>Wed, 29 Jun 2016 13:58:13 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160629135813.htm</guid>
+		</item>
+		<item>
+			<title>Mountaineering ants use body heat to warm nests</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160629135800.htm</link>
+			<description>Underground army ants can keep their nests -- called bivouacs -- warm with their body heat; this social warming may enable fragile offspring to survive in chilly mountain forests, according to researchers. <!-- more --></description>
+			<pubDate>Wed, 29 Jun 2016 13:58:00 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160629135800.htm</guid>
+		</item>
+		<item>
+			<title>Some surfaces are wetted by water, others are water-repellent: A new material can be both</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160629135251.htm</link>
+			<description>Scientists have discovered a robust surface whose adhesive and wetting properties can be switched using electricity. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160629135251.jpg" height="402" width="300" />
+			<pubDate>Wed, 29 Jun 2016 13:52:51 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160629135251.htm</guid>
+		</item>
+		<item>
+			<title>Watching the brain during language learning</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160629125943.htm</link>
+			<description>For the first time, researchers have captured images of the brain during the initial hours and days of learning a new language. They use an artificial language with real structures to show how new linguistic information is integrated into the same brain areas used for your native language. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160629125943.jpg" height="151" width="300" />
+			<pubDate>Wed, 29 Jun 2016 12:59:43 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160629125943.htm</guid>
+		</item>
+		<item>
+			<title>Truth to age-old maxim &#039;work hard, play hard&#039;</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160629105940.htm</link>
+			<description>A biology professor has published a study that, for the first time, provides strong empirical support for a correlation between a motivation to seek accomplishment and an attraction to leisure. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160629105940.jpg" height="195" width="300" />
+			<pubDate>Wed, 29 Jun 2016 10:59:40 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160629105940.htm</guid>
+		</item>
+		<item>
+			<title>It&#039;s not just a grunt: Pigs really do have something to say</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160629100349.htm</link>
+			<description>The grunts made by pigs vary depending on the pig&#039;s personality and can convey important information about the welfare of this highly social species, new research has found. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160629100349.jpg" height="200" width="300" />
+			<pubDate>Wed, 29 Jun 2016 10:03:49 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160629100349.htm</guid>
+		</item>
+		<item>
+			<title>Cannabinoids remove plaque-forming Alzheimer&#039;s proteins from brain cells</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160629095609.htm</link>
+			<description>Scientists have found preliminary evidence that tetrahydrocannabinol (THC) and other compounds found in marijuana can promote the cellular removal of amyloid beta, a toxic protein associated with Alzheimer&#039;s disease. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160629095609.jpg" height="200" width="300" />
+			<pubDate>Wed, 29 Jun 2016 09:56:09 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160629095609.htm</guid>
+		</item>
+		<item>
+			<title>Baby fish lose poisonous protectors in acidified oceans</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628221717.htm</link>
+			<description>A common close partnership which sees baby fish sheltering from predators among the poisonous tentacles of jellyfish will be harmed under predicted ocean acidification, a new study has found. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628221717.jpg" height="225" width="300" />
+			<pubDate>Tue, 28 Jun 2016 22:17:17 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628221717.htm</guid>
+		</item>
+		<item>
+			<title>Humans artificially drive evolution of new species</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628221714.htm</link>
+			<description>Species across the world are rapidly going extinct due to human activities, but humans are also causing rapid evolution and the emergence of new species. A new study summarizes the causes of humanmade speciation, and discusses why newly evolved species cannot simply replace extinct wild species. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628221714.jpg" height="210" width="300" />
+			<pubDate>Tue, 28 Jun 2016 22:17:14 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628221714.htm</guid>
+		</item>
+		<item>
+			<title>Our ancestors evolved faster after dinosaur extinction</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628221710.htm</link>
+			<description>Our ancestors evolved three times faster in the 10 million years after the extinction of the dinosaurs than in the previous 80 million years, according to researchers. The team found the speed of evolution of placental mammals -- a group that today includes nearly 5000 species including humans -- was constant before the extinction event but exploded after, resulting in the varied groups of mammals we see today. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628221710.jpg" height="192" width="300" />
+			<pubDate>Tue, 28 Jun 2016 22:17:10 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628221710.htm</guid>
+		</item>
+		<item>
+			<title>Night-time light pollution causes spring to come early</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628221707.htm</link>
+			<description>Human use of artificial light is causing spring to come at least a week early in the UK, researchers have found. The findings provide important information for those in charge of lighting levels, such as local councils, and point to the need for further research into the impact of different light quality and the specific wavelengths of light generated by different lighting types. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628221707.jpg" height="164" width="300" />
+			<pubDate>Tue, 28 Jun 2016 22:17:07 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628221707.htm</guid>
+		</item>
+		<item>
+			<title>Scientists stabilize HIV structure, design potential AIDS vaccine candidates</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628182534.htm</link>
+			<description>Want to stop HIV infections? Get the immune system to recognize and attack the virus&#039;s tell-tale structure, say researchers. Two new studies advance efforts to produce HIV vaccine candidates, potentially suitable for large-scale production. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628182534.jpg" height="300" width="300" />
+			<pubDate>Tue, 28 Jun 2016 18:25:34 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628182534.htm</guid>
+		</item>
+		<item>
+			<title>Hubble reveals stellar fireworks in &#039;skyrocket&#039; galaxy</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628141521.htm</link>
+			<description>A new Hubble Space Telescope image shows a firestorm of star birth lighting up one end of the diminutive galaxy Kiso 5639. The dwarf galaxy is shaped like a flattened pancake, but because it is tilted edge-on, it resembles a skyrocket, with a brilliant blazing head and a long, star-studded tail. Kiso 5639 is a member of a class of galaxies called &quot;tadpoles&quot; because of their bright heads and elongated tails. This galaxy resides relatively nearby, at 82 million light-years away. Tadpoles are rare in the local universe but more common in the distant cosmos, suggesting that many galaxies pass through a phase like this as they evolve. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628141521.jpg" height="200" width="300" />
+			<pubDate>Tue, 28 Jun 2016 14:15:21 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628141521.htm</guid>
+		</item>
+		<item>
+			<title>Early bird wings preserved in Burmese amber</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628141419.htm</link>
+			<description>Thousands of remarkable fossil birds from the time of the dinosaurs have been uncovered in China. However, most of these fossils are flattened in the rock, even though they commonly preserve fossils. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628141419.jpg" height="200" width="300" />
+			<pubDate>Tue, 28 Jun 2016 14:14:19 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628141419.htm</guid>
+		</item>
+		<item>
+			<title>Pipelines affect health, fitness of salmon</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628141239.htm</link>
+			<description>Pipelines carrying crude oil to ports in British Columbia may spell bad news for salmon, according to a new study. Exposure to an oil sands product -- diluted bitumen -- impairs the swimming ability and changes the heart structures of young salmon. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628141239.jpg" height="200" width="300" />
+			<pubDate>Tue, 28 Jun 2016 14:12:39 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628141239.htm</guid>
+		</item>
+		<item>
+			<title>Biologists explain function of Pentagone</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628141235.htm</link>
+			<description>How do the cells in a human embryo know where they are located in the body and how they should develop? Why do certain cells form a finger while others do not? Biologists have explained the mechanisms that control these steps by showing why veins form at particular points in the wing of a fruit fly. The protein Pentagone spreads a particular signal in the wing that tells the cells how to behave. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628141235.jpg" height="300" width="300" />
+			<pubDate>Tue, 28 Jun 2016 14:12:35 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628141235.htm</guid>
+		</item>
+		<item>
+			<title>&#039;Squishy&#039; motors and wheels give soft robots a new ride</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628122830.htm</link>
+			<description>A small, squishy vehicle equipped with soft wheels rolls over rough terrain and runs under water. Future versions of the versatile vehicle might be suitable for search and rescue missions after disasters, deep space and planet exploration, and manipulating objects during magnetic resonance imaging (MRI), according to its creators. Their most important innovation is a soft motor that provides torque without bending or extending its housing. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628122830.jpg" height="176" width="300" />
+			<pubDate>Tue, 28 Jun 2016 12:28:30 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628122830.htm</guid>
+		</item>
+		<item>
+			<title>New preclinical study indicates vaccine to prevent Zika infection in humans is feasible</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628122711.htm</link>
+			<description>The Walter Reed Army Institute of Research (WRAIR) and collaborators at the Beth Israel Deaconess Medical Center and Harvard Medical School have completed a promising preclinical study of two Zika vaccine candidates that suggests that an effective human vaccine will be achievable. Findings from the study were published today in the journal Nature. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628122711.jpg" height="169" width="300" />
+			<pubDate>Tue, 28 Jun 2016 12:27:11 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628122711.htm</guid>
+		</item>
+		<item>
+			<title>Animals &#039;inherit&#039; their social network from their mothers, study shows</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628122706.htm</link>
+			<description>Two biologists have developed a mathematical model of the way social networks arise in animal populations. Though relatively simple, their model generated networks that faithfully recapitulated important properties of networks observed in field-collected data from four very different animal populations: spotted hyenas, sleep lizards, rock hyrax and bottlenose dolphins. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628122706.jpg" height="300" width="300" />
+			<pubDate>Tue, 28 Jun 2016 12:27:06 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628122706.htm</guid>
+		</item>
+		<item>
+			<title>Vaccine protection against Zika virus achieved</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628114836.htm</link>
+			<description>The rapid development of a safe and effective vaccine to prevent the Zika virus (ZIKV) is a global priority, as infection in pregnant women has been shown to lead to fetal microcephaly and other major birth defects. The World Health Organization declared the Zika virus epidemic a global public health emergency on February 1, 2016. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628114836.jpg" height="200" width="300" />
+			<pubDate>Tue, 28 Jun 2016 11:48:36 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628114836.htm</guid>
+		</item>
+		<item>
+			<title>Monkey study shows Zika infection prolonged in pregnancy</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628114834.htm</link>
+			<description>Researchers studying monkeys have shown that one infection with Zika virus protects against future infection, though pregnancy may drastically prolong the time the virus stays in the body. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628114834.jpg" height="200" width="300" />
+			<pubDate>Tue, 28 Jun 2016 11:48:34 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628114834.htm</guid>
+		</item>
+		<item>
+			<title>New technology could deliver drugs to brain injuries</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628114832.htm</link>
+			<description>A new study describes a technology that could lead to new therapeutics for traumatic brain injuries. The discovery provides a means of homing drugs or nanoparticles to injured areas of the brain. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628114832.jpg" height="262" width="300" />
+			<pubDate>Tue, 28 Jun 2016 11:48:32 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628114832.htm</guid>
+		</item>
+		<item>
+			<title>Researchers identify possible link between the environment and puberty</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628114122.htm</link>
+			<description>A possible epigenetic link between the environment and pubertal timing has been discovered by researchers. To a large extent, pubertal timing is heritable, but the underlying genetic causes are still unexplained. Researchers have now studied how chemical modifications of the human genome (so-called epigenetic modifications) change when girls and boys enter puberty. The results indicate that such epigenetic changes are involved in defining the onset of puberty. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628114122.jpg" height="200" width="300" />
+			<pubDate>Tue, 28 Jun 2016 11:41:22 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628114122.htm</guid>
+		</item>
+		<item>
+			<title>Honeybee circadian rhythms are affected more by social interactions</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628113751.htm</link>
+			<description>For the first time, a field study shows that social time cues override influence of light and darkness in regulating the natural body clock of honeybees, highlighting the complexity of clock regulation in natural habitat <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628113751.jpg" height="203" width="300" />
+			<pubDate>Tue, 28 Jun 2016 11:37:51 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628113751.htm</guid>
+		</item>
+		<item>
+			<title>Previously unknown global ecological disaster discovered</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628072428.htm</link>
+			<description>There have been several mass extinctions in the history of the earth with adverse consequences for the environment. Researchers have now uncovered another disaster that took place around 250 million years ago and completely changed the prevalent vegetation during the Lower Triassic. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628072428.jpg" height="267" width="300" />
+			<pubDate>Tue, 28 Jun 2016 07:24:28 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628072428.htm</guid>
+		</item>
+		<item>
+			<title>Rotating ring of complex organic molecules discovered around newborn star: Chemical diversity in planet forming regions unveiled</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628072426.htm</link>
+			<description>Researchers have discovered a rotating ring containing large organic molecules around a protostar. This observation definitively shows that organic materials formed in interstellar space are brought into the planet-forming region. Researchers also found that the molecular species brought into the planet-forming region vary from one protostar to another. Chemical composition is a new way to answer the long-standing question of whether or not the Solar System is a typical example of a planetary system. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628072426.jpg" height="190" width="300" />
+			<pubDate>Tue, 28 Jun 2016 07:24:26 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628072426.htm</guid>
+		</item>
+		<item>
+			<title>Clandestine black hole may represent new population</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628072249.htm</link>
+			<description>Astronomers have concluded that a peculiar source of radio waves thought to be a distant galaxy is actually a nearby binary star system containing a low-mass star and a black hole. This identification suggests there may be a vast number of black holes in our Galaxy that have gone unnoticed until now. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628072249.jpg" height="300" width="300" />
+			<pubDate>Tue, 28 Jun 2016 07:22:49 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628072249.htm</guid>
+		</item>
+		<item>
+			<title>Methylene blue shows promise for improving short-term memory: Study in humans</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160628072028.htm</link>
+			<description>A single oral dose of methylene blue results in an increased MRI-based response in brain areas that control short-term memory and attention, according to a new study. Methylene blue was associated with a 7 percent increase in correct responses during memory retrieval. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160628072028.jpg" height="281" width="300" />
+			<pubDate>Tue, 28 Jun 2016 07:20:28 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160628072028.htm</guid>
+		</item>
+		<item>
+			<title>Astronomers release spectacular survey of the distant Universe</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627214630.htm</link>
+			<description>Astronomers have released spectacular new infrared images of the distant Universe, providing the deepest view ever obtained over a large area of sky. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627214630.jpg" height="225" width="300" />
+			<pubDate>Mon, 27 Jun 2016 21:46:30 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627214630.htm</guid>
+		</item>
+		<item>
+			<title>Meet RobERt, the dreaming detective for exoplanet atmospheres</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627214628.htm</link>
+			<description>Machine-learning techniques that mimic human recognition and dreaming processes are being deployed in the search for habitable worlds beyond our solar system. A deep belief neural network, called RobERt (Robotic Exoplanet Recognition), has been developed by astronomers to sift through detections of light emanating from distant planetary systems and retrieve spectral information about the gases present in the exoplanet atmospheres. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627214628.jpg" height="300" width="300" />
+			<pubDate>Mon, 27 Jun 2016 21:46:28 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627214628.htm</guid>
+		</item>
+		<item>
+			<title>Moon discovered over dwarf planet Makemake in the Kuiper Belt</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627214421.htm</link>
+			<description>Scientists have discovered an elusive, dark moon orbiting Makemake, one of the &#039;big four&#039; dwarf planets populating the Kuiper Belt region at the edge of our solar system. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627214421.jpg" height="298" width="300" />
+			<pubDate>Mon, 27 Jun 2016 21:44:21 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627214421.htm</guid>
+		</item>
+		<item>
+			<title>Chronic fatigue syndrome is in your gut, not your head</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627160939.htm</link>
+			<description>Physicians have been mystified by chronic fatigue syndrome, a condition where normal exertion leads to debilitating fatigue that isn&#039;t alleviated by rest. There are no known triggers, and diagnosis requires lengthy tests administered by an expert. Now, for the first time, researchers report they have identified biological markers of the disease in gut bacteria and inflammatory microbial agents in the blood. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627160939.jpg" height="209" width="300" />
+			<pubDate>Mon, 27 Jun 2016 16:09:39 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627160939.htm</guid>
+		</item>
+		<item>
+			<title>2009 swine flu pandemic originated in Mexico, researchers discover</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627160935.htm</link>
+			<description>The 2009 swine H1N1 flu pandemic -- responsible for more than 17,000 deaths worldwide -- originated in pigs from a very small region in central Mexico, a research team is reporting.The scientists say their findings represent the first time that the origin of an influenza pandemic virus has been determined in such detail. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627160935.jpg" height="200" width="300" />
+			<pubDate>Mon, 27 Jun 2016 16:09:35 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627160935.htm</guid>
+		</item>
+		<item>
+			<title>Picky eaters: Bumble bees prefer plants with nutrient-rich pollen</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627160929.htm</link>
+			<description>Bumble bees have discriminating palates when it comes to their pollen meals, according to researchers. The researchers found that bumble bees can detect the nutritional quality of pollen, and that this ability helps them selectively forage among plant species to optimize their diets. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627160929.jpg" height="169" width="300" />
+			<pubDate>Mon, 27 Jun 2016 16:09:29 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627160929.htm</guid>
+		</item>
+		<item>
+			<title>Water windfall&#039; discovered beneath California&#039;s Central Valley</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627160116.htm</link>
+			<description>New research indicates that California&#039;s Central Valley harbors three times more groundwater than previously estimated, but challenges to using it include pumping costs, ground subsidence and possible contamination from fracking and other oil and gas activities. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627160116.jpg" height="225" width="300" />
+			<pubDate>Mon, 27 Jun 2016 16:01:16 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627160116.htm</guid>
+		</item>
+		<item>
+			<title>Mercury&#039;s origins traced to rare meteorite</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627132939.htm</link>
+			<description>Geologists trace Mercury&#039;s origins to weird, rare meteorite, and find planet cooled dramatically shortly after it formed. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627132939.jpg" height="200" width="300" />
+			<pubDate>Mon, 27 Jun 2016 13:29:39 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627132939.htm</guid>
+		</item>
+		<item>
+			<title>New, better way to build circuits for world&#039;s first useful quantum computers</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627132809.htm</link>
+			<description>The era of quantum computers is one step closer. New research demonstrates a new way to pack a lot more quantum computing power into a much smaller space and with much greater control than ever before. The result is important for the development of quantum computers that can do computations that are impossible today for uses including cryptography and electronic data security. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627132809.jpg" height="200" width="300" />
+			<pubDate>Mon, 27 Jun 2016 13:28:09 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627132809.htm</guid>
+		</item>
+		<item>
+			<title>Benefits of drinking coffee outweigh risks, review suggests</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627125816.htm</link>
+			<description>Coffee is enjoyed by millions of people every day and the &#039;coffee experience&#039; has become a staple of our modern life and culture. While the current body of research related to the effects of coffee consumption on human health has been contradictory, a new study found that the potential benefits of moderate coffee drinking outweigh the risks in adult consumers for the majority of major health outcomes considered. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627125816.jpg" height="200" width="300" />
+			<pubDate>Mon, 27 Jun 2016 12:58:16 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627125816.htm</guid>
+		</item>
+		<item>
+			<title>NASA rover findings point to a more Earth-like Martian past</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627125731.htm</link>
+			<description>Chemicals found in Martian rocks by NASA&#039;s Curiosity Mars rover suggest the Red Planet once had more oxygen in its atmosphere than it does now. The findings add to evidence revealing how Earth-like our neighboring planet once was. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627125731.jpg" height="321" width="300" />
+			<pubDate>Mon, 27 Jun 2016 12:57:31 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627125731.htm</guid>
+		</item>
+		<item>
+			<title>Link between gut bacteria, MS discovered</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627125355.htm</link>
+			<description>Researchers are now saying bad gut bacteria -- or an insufficient amount of good bacteria -- may have a direct link to multiple sclerosis. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627125355.jpg" height="145" width="300" />
+			<pubDate>Mon, 27 Jun 2016 12:53:55 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627125355.htm</guid>
+		</item>
+		<item>
+			<title>Metabolic flexibility and immune defenses may influence species spread</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627125304.htm</link>
+			<description>Why most species are rare has long interested biologists, but until recently our understanding of the factors driving differences in range size has been limited. New research suggests metabolic flexibility and the immune response may both influence how rare or common a species is. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627125304.jpg" height="179" width="300" />
+			<pubDate>Mon, 27 Jun 2016 12:53:04 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627125304.htm</guid>
+		</item>
+		<item>
+			<title>Anthrax capsule vaccine completely protects monkeys from lethal inhalational anthrax</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627125302.htm</link>
+			<description>Vaccination with the anthrax capsule -- a naturally occurring component of the bacterium that causes the disease -- completely protected monkeys from lethal anthrax infection, according to a study. These results indicate that anthrax capsule is a highly effective vaccine component that should be considered for incorporation in future generation anthrax vaccines. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627125302.jpg" height="200" width="300" />
+			<pubDate>Mon, 27 Jun 2016 12:53:02 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627125302.htm</guid>
+		</item>
+		<item>
+			<title>Building a smart cardiac patch</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627124930.htm</link>
+			<description>Researchers have created nanoscale electronic scaffolds that can be seeded with cardiac cells to produce a &#039;bionic&#039; cardiac patch. Once implanted, the bionic patch could act similarly to a pacemaker -- delivering electrical shocks to correct arrhythmia, but the possibilities don&#039;t end there, say researchers. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627124930.jpg" height="181" width="300" />
+			<pubDate>Mon, 27 Jun 2016 12:49:30 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627124930.htm</guid>
+		</item>
+		<item>
+			<title>Stress contagion possible amongst students, teachers</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627124928.htm</link>
+			<description>Teacher burnout and student stress may be linked, according to a new study. The work is the first of its kind to examine the connection between teacher burnout and students&#039; cortisol levels, which are a biological indicator of stress. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627124928.jpg" height="200" width="300" />
+			<pubDate>Mon, 27 Jun 2016 12:49:28 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627124928.htm</guid>
+		</item>
+		<item>
+			<title>Global, evolving, and historic make-up of malaria species uncovered</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627124430.htm</link>
+			<description>A team of scientists has uncovered the global, evolving, and historic make-up of Plasmodium vivax, one of the five species of malaria that infect humans. The research, which links the spread of the parasite back to colonial seafaring, among other phenomena, underscores the challenges health experts face in controlling the parasite. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627124430.jpg" height="245" width="300" />
+			<pubDate>Mon, 27 Jun 2016 12:44:30 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627124430.htm</guid>
+		</item>
+		<item>
+			<title>Glorious, glowing Jupiter awaits Juno’s arrival</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627095941.htm</link>
+			<description>Stunning new images and the highest-resolution maps to date of Jupiter at thermal infrared wavelengths give a glowing view of Juno&#039;s target, a week ahead of the NASA mission&#039;s arrival at the giant planet. The maps reveal the present-day temperatures, composition and cloud coverage within Jupiter&#039;s dynamic atmosphere, and show how giant storms, vortices and wave patterns shape the appearance of the giant planet. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627095941.jpg" height="305" width="300" />
+			<pubDate>Mon, 27 Jun 2016 09:59:41 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627095941.htm</guid>
+		</item>
+		<item>
+			<title>Opal discovered in Antarctic meteorite</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627095939.htm</link>
+			<description>Planetary scientists have discovered pieces of opal in a meteorite found in Antarctica, a result that demonstrates that meteorites delivered water ice to asteroids early in the history of the solar system. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627095939.jpg" height="300" width="300" />
+			<pubDate>Mon, 27 Jun 2016 09:59:39 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627095939.htm</guid>
+		</item>
+		<item>
+			<title>Scientists just made it cheaper to produce hydrogen from water</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627095937.htm</link>
+			<description>A hydrogen-fuel economy could finally become a reality with the recent discovery of a cheap, stable and efficient means of getting hydrogen from water. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627095937.jpg" height="192" width="300" />
+			<pubDate>Mon, 27 Jun 2016 09:59:37 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627095937.htm</guid>
+		</item>
+		<item>
+			<title>Whistling wormholes discovered in the Caribbean</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627095933.htm</link>
+			<description>Scientists have discovered the Caribbean Sea works like a whistle. This finding will enable scientists to predict some sea level changes many months in advance, and may be an important factor in regulating how the Gulf Stream varies. This research has found the Caribbean Current flow is unstable, which causes it to shed eddies, or swirling currents of water hundreds of kilometers in diameter. This is similar to the way in which a jet of air sheds eddies when it hits the lip of a whistle. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627095933.jpg" height="200" width="300" />
+			<pubDate>Mon, 27 Jun 2016 09:59:33 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627095933.htm</guid>
+		</item>
+		<item>
+			<title>Robots come to each other&#039;s aid when they get the signal</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627095637.htm</link>
+			<description>Sometimes all it takes to get help from someone is to wave at them, or point. Now the same is true for robots. Researchers have completed work on a project aimed at enabling robots to cooperate with one another on complex jobs, by using body language. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627095637.jpg" height="196" width="300" />
+			<pubDate>Mon, 27 Jun 2016 09:56:37 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627095637.htm</guid>
+		</item>
+		<item>
+			<title>Text Messaging with Smartphones Triggers a New Type of Brain Rhythm</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627095322.htm</link>
+			<description>Sending text messages on a smartphone can change the rhythm of brain waves, according to a new study. People communicate increasingly via text messaging, though little is known on the neurological effects of smartphone use. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627095322.jpg" height="164" width="300" />
+			<pubDate>Mon, 27 Jun 2016 09:53:22 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627095322.htm</guid>
+		</item>
+		<item>
+			<title>The Martian becomes reality: At least four crops grown on simulated Mars soil are edible</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627095316.htm</link>
+			<description>Scientists are working on growing crops on Mars and moon soil simulants. Just like the real Martian and moon soil these contain heavy metals in almost the same quantities. Four of the crops grown were tested for heavy metal content. No concentrations were detected that would be dangerous for human health. The four crops are therefore safe to eat and, for some heavy metals, the concentrations were even lower than in the crops grown in potting soil. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627095316.jpg" height="202" width="300" />
+			<pubDate>Mon, 27 Jun 2016 09:53:16 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627095316.htm</guid>
+		</item>
+		<item>
+			<title>Fastest-spinning brown-dwarf star is detected by its bursts of radio waves</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627095023.htm</link>
+			<description>Astronomers have detected what may be the most rapidly rotating, ultra-cool, brown-dwarf star ever seen. The super-fast rotation period was measured by using the 305-meter Arecibo radio telescope -- the same telescope that was used to discover the first planets ever found outside our solar system. The detection emphasizes Arecibo&#039;s amazing sensitivity, which has the potential to measure the magnetic fields, which protect life, of potentially habitable planets around other stars. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627095023.jpg" height="225" width="300" />
+			<pubDate>Mon, 27 Jun 2016 09:50:23 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627095023.htm</guid>
+		</item>
+		<item>
+			<title>Seeds of black holes could be revealed by gravitational waves detected in space</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627095017.htm</link>
+			<description>Gravitational waves captured by space-based detectors could help identify the origins of supermassive black holes, according to new computer simulations of the universe. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627095017.jpg" height="169" width="300" />
+			<pubDate>Mon, 27 Jun 2016 09:50:17 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627095017.htm</guid>
+		</item>
+		<item>
+			<title>Super-slow circulation allowed world&#039;s oceans to store huge amounts of carbon during last ice age</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627094834.htm</link>
+			<description>The way the ocean transported heat, nutrients and carbon dioxide at the peak of the last ice age, about 20,000 years ago, is significantly different than what has previously been suggested, according to two new studies. The findings suggest that the colder ocean circulated at a very slow rate, which enabled it to store much more carbon for much longer than the modern ocean. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627094834.jpg" height="300" width="300" />
+			<pubDate>Mon, 27 Jun 2016 09:48:34 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627094834.htm</guid>
+		</item>
+		<item>
+			<title>Ancient &#039;Deep Skull&#039; from Borneo full of surprises</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627094831.htm</link>
+			<description>A new study of the 37,000-year old remains of the &#039;Deep Skull&#039; -- the oldest modern human discovered in island South-East Asia -- has revealed this ancient person was not related to Indigenous Australians, as had been originally thought. The Deep Skull was also likely to have been an older woman, rather than a teenage boy, the research shows. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627094831.jpg" height="300" width="300" />
+			<pubDate>Mon, 27 Jun 2016 09:48:31 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627094831.htm</guid>
+		</item>
+		<item>
+			<title>3-D printing produces cartilage from strands of bioink</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160627094828.htm</link>
+			<description>Strands of cow cartilage substitute for ink in a 3-D bioprinting process that may one day create cartilage patches for worn out joints, according to engineers. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160627094828.jpg" height="235" width="300" />
+			<pubDate>Mon, 27 Jun 2016 09:48:28 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160627094828.htm</guid>
+		</item>
+		<item>
+			<title>Sparrows with unfaithful &#039;wives&#039; care less for their young</title>
+			<link>https://www.sciencedaily.com/releases/2016/06/160624155002.htm</link>
+			<description>Sparrows form pair bonds that are normally monogamous, but many females are unfaithful to their partner and have offspring with other males. Biologists believe that the male birds are unfaithful to ensure they father as many chicks as they can, while females are unfaithful with males of better &#039;genetic quality&#039; -- ones that are fitter and could produce stronger offspring. But new research shows that cheating comes with a cost -- the cheating female&#039;s partner will provide less food for their nest of young. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/06/160624155002.jpg" height="192" width="300" />
+			<pubDate>Fri, 24 Jun 2016 15:50:02 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/06/160624155002.htm</guid>
+		</item>
+	</channel>
+</rss>
+<!-- Page successfully written to cache. -->
+<!-- cached Wed, 29 Jun 2016 19:24:01 EDT -->

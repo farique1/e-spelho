@@ -1,0 +1,11 @@
+2016/06/16 09:25:12 Populate dia 
+2016/06/16 09:25:12 Populate transito 
+2016/06/16 09:25:12 Populate transito stat 
+2016/06/16 09:25:12 Populate gil 
+2016/06/16 09:25:14 Populate news 
+2016/06/16 09:25:14 Populate calendar 
+2016/06/16 09:25:14 Populate weather main 
+2016/06/16 09:25:14 Populate weather forecast 
+2016/06/16 09:25:14 Populate emprestimos 
+2016/06/16 09:25:14 Populate messages 
+2016/06/16 09:25:14 Populate weather main 

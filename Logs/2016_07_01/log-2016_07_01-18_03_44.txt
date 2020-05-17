@@ -1,0 +1,22 @@
+2016/07/01 18:03:44 Populate dia 
+2016/07/01 18:03:45 Populate events 
+2016/07/01 18:03:45 Populate gil 
+2016/07/01 18:03:45 Populate news 
+2016/07/01 18:03:45 Shuffle news 
+2016/07/01 18:03:45 Populate calendar 
+2016/07/01 18:03:45 Populate weather main 
+2016/07/01 18:03:45 Populate emprestimos 
+2016/07/01 18:03:45 Populate messages 
+2016/07/01 18:03:48 Acessou mapa 
+2016/07/01 18:03:48 Aplicou cartoons 
+2016/07/01 18:03:48 Baixou cartoons 
+2016/07/01 18:08:49 Apaga 
+2016/07/01 18:16:54 Aplicou cartoons 
+2016/07/01 18:16:58 Refresh map 
+2016/07/01 18:17:26 Aplicou cartoons 
+2016/07/01 18:17:31 Refresh map 
+2016/07/01 18:19:01 Aplicou cartoons 
+2016/07/01 18:19:02 Aplicou cartoons 
+2016/07/01 18:19:04 Aplicou cartoons 
+2016/07/01 18:19:04 Aplicou cartoons 
+2016/07/01 18:19:05 Aplicou cartoons 

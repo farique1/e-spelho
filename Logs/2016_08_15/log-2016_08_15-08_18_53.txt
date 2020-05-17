@@ -1,0 +1,114 @@
+2016/08/15 08:19:01 Populate dia 
+2016/08/15 08:19:03 Populate transito 
+2016/08/15 08:19:03 Populate transito stat 
+2016/08/15 08:19:05 Populate gil 
+2016/08/15 08:19:07 Populate news 
+2016/08/15 08:19:09 Shuffle news 
+2016/08/15 08:19:11 Populate calendar 
+2016/08/15 08:19:12 Populate weather main 
+2016/08/15 08:19:24 Populate emprestimos 
+2016/08/15 08:19:25 Populate messages 
+2016/08/15 08:19:32 Acessou mapa 
+2016/08/15 08:19:36 Aplicou cartoons 
+2016/08/15 08:19:36 Baixou cartoons 
+2016/08/15 08:19:40 Aplicou cartoons 
+2016/08/15 08:19:52 Refresh map 
+2016/08/15 08:24:36 Apaga 
+2016/08/15 08:30:00 Populate transito 
+2016/08/15 08:30:00 Populate transito stat 
+2016/08/15 09:00:01 Populate transito 
+2016/08/15 09:00:01 Populate transito stat 
+2016/08/15 09:05:00 Populate weather main 
+2016/08/15 09:30:01 Populate transito 
+2016/08/15 09:30:01 Populate transito stat 
+2016/08/15 10:00:03 Populate transito 
+2016/08/15 10:00:03 Populate transito stat 
+2016/08/15 10:05:01 Populate weather main 
+2016/08/15 10:30:03 Populate transito 
+2016/08/15 10:30:03 Populate transito stat 
+2016/08/15 11:00:06 Populate transito 
+2016/08/15 11:00:06 Populate transito stat 
+2016/08/15 11:05:00 Populate weather main 
+2016/08/15 11:30:06 Populate transito 
+2016/08/15 11:30:06 Populate transito stat 
+2016/08/15 12:00:00 Mostra eventos 
+2016/08/15 12:00:00 Populate events 
+2016/08/15 12:00:02 Shuffle news 
+2016/08/15 12:05:01 Populate weather main 
+2016/08/15 13:05:00 Populate weather main 
+2016/08/15 14:05:29 Populate weather main 
+2016/08/15 15:05:00 Populate weather main 
+2016/08/15 16:00:02 Shuffle news 
+2016/08/15 16:05:01 Populate weather main 
+2016/08/15 17:05:00 Populate weather main 
+2016/08/15 18:05:01 Populate weather main 
+2016/08/15 19:05:00 Populate weather main 
+2016/08/15 20:00:02 Shuffle news 
+2016/08/15 20:05:01 Populate weather main 
+2016/08/15 21:05:00 Populate weather main 
+2016/08/15 22:05:05 Populate weather main 
+2016/08/15 23:05:00 Populate weather main 
+2016/08/16 00:00:01 Populate dia 
+2016/08/16 00:00:04 Populate events 
+2016/08/16 00:00:04 Populate gil 
+2016/08/16 00:00:06 Populate news 
+2016/08/16 00:00:08 Shuffle news 
+2016/08/16 00:00:10 Populate calendar 
+2016/08/16 00:00:15 Populate emprestimos 
+2016/08/16 00:00:16 Populate messages 
+2016/08/16 00:00:45 Aplicou cartoons 
+2016/08/16 00:00:53 Aplicou cartoons 
+2016/08/16 00:02:15 Refresh map 
+2016/08/16 00:02:35 Aplicou cartoons 
+2016/08/16 00:05:01 Populate weather main 
+2016/08/16 01:05:00 Populate weather main 
+2016/08/16 02:05:01 Populate weather main 
+2016/08/16 03:05:00 Populate weather main 
+2016/08/16 04:00:02 Shuffle news 
+2016/08/16 04:05:05 Populate weather main 
+2016/08/16 05:05:00 Populate weather main 
+2016/08/16 06:05:01 Populate weather main 
+2016/08/16 07:00:00 Mostra transito comp 
+2016/08/16 07:00:01 Populate transito 
+2016/08/16 07:00:01 Populate transito stat 
+2016/08/16 07:05:00 Populate weather main 
+2016/08/16 07:30:00 Populate transito 
+2016/08/16 07:30:00 Populate transito stat 
+2016/08/16 08:00:01 Populate transito 
+2016/08/16 08:00:01 Populate transito stat 
+2016/08/16 08:00:03 Shuffle news 
+2016/08/16 08:05:01 Populate weather main 
+2016/08/16 08:30:02 Populate transito 
+2016/08/16 08:30:02 Populate transito stat 
+2016/08/16 09:00:00 Populate transito 
+2016/08/16 09:00:00 Populate transito stat 
+2016/08/16 09:05:00 Populate weather main 
+2016/08/16 09:30:01 Populate transito 
+2016/08/16 09:30:01 Populate transito stat 
+2016/08/16 10:00:01 Populate transito 
+2016/08/16 10:00:01 Populate transito stat 
+2016/08/16 10:05:01 Populate weather main 
+2016/08/16 10:30:01 Populate transito 
+2016/08/16 10:30:01 Populate transito stat 
+2016/08/16 11:00:01 Populate transito 
+2016/08/16 11:00:01 Populate transito stat 
+2016/08/16 11:05:00 Populate weather main 
+2016/08/16 11:30:01 Populate transito 
+2016/08/16 11:30:01 Populate transito stat 
+2016/08/16 12:00:00 Mostra eventos 
+2016/08/16 12:00:00 Populate events 
+2016/08/16 12:00:02 Shuffle news 
+2016/08/16 12:05:01 Populate weather main 
+2016/08/16 13:05:00 Populate weather main 
+2016/08/16 14:05:03 Populate weather main 
+2016/08/16 15:05:00 Populate weather main 
+2016/08/16 16:00:02 Shuffle news 
+2016/08/16 16:05:01 Populate weather main 
+2016/08/16 17:05:00 Populate weather main 
+2016/08/16 18:05:02 Populate weather main 
+2016/08/16 19:05:00 Populate weather main 
+2016/08/16 20:00:02 Shuffle news 
+2016/08/16 20:05:01 Populate weather main 
+2016/08/16 21:05:00 Populate weather main 
+2016/08/16 22:05:01 Populate weather main 
+2016/08/16 23:05:00 Populate weather main 

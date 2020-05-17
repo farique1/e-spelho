@@ -1,0 +1,25 @@
+2017/05/05 22:51:51 Populate dia 
+2017/05/05 22:51:51 Populate events 
+2017/05/05 22:51:53 Populate gil 
+2017/05/05 22:51:55 Populate news 
+2017/05/05 22:51:57 Shuffle news 
+2017/05/05 22:51:59 Populate calendar 
+2017/05/05 22:52:01 Populate weather main 
+2017/05/05 22:52:04 Populate emprestimos 
+2017/05/05 22:52:05 Populate messages 
+2017/05/05 22:52:13 Acessou mapa 
+2017/05/05 22:52:23 Aplicou cartoons 
+2017/05/05 22:52:23 Baixou cartoons 
+2017/05/05 22:53:21 Aplicou cartoons 
+2017/05/05 22:53:32 Aplicou cartoons 
+2017/05/05 22:58:19 Refresh map 
+2017/05/05 23:05:00 Populate weather main 
+2017/05/06 00:00:01 Populate dia 
+2017/05/06 00:00:01 Populate events 
+2017/05/06 00:00:01 Populate gil 
+2017/05/06 00:00:02 Populate news 
+2017/05/06 00:00:05 Shuffle news 
+2017/05/06 00:00:06 Populate calendar 
+2017/05/06 00:00:09 Populate emprestimos 
+2017/05/06 00:00:11 Populate messages 
+2017/05/06 00:00:15 Aplicou cartoons 

@@ -1,0 +1,12 @@
+2016/06/17 18:26:02 Populate dia 
+2016/06/17 18:26:02 Populate events 
+2016/06/17 18:26:02 Populate gil 
+2016/06/17 18:26:19 Populate news 
+2016/06/17 18:26:19 Populate calendar 
+2016/06/17 18:26:19 Populate weather main 
+2016/06/17 18:26:20 Populate weather forecast 
+2016/06/17 18:26:20 Populate emprestimos 
+2016/06/17 18:26:20 Populate messages 
+2016/06/17 18:26:20 Acessou mapa 
+2016/06/17 18:26:20 Aplicou cartoons 
+2016/06/17 18:26:20 Populate weather main 

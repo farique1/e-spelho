@@ -1,0 +1,56 @@
+2016/08/14 14:52:12 Populate dia 
+2016/08/14 14:52:12 Populate events 
+2016/08/14 14:52:15 Populate gil 
+2016/08/14 14:52:15 Populate news 
+2016/08/14 14:52:18 Shuffle news 
+2016/08/14 14:52:19 Populate calendar 
+2016/08/14 14:52:21 Populate weather main 
+2016/08/14 14:52:25 Populate emprestimos 
+2016/08/14 14:52:27 Populate messages 
+2016/08/14 14:52:34 Acessou mapa 
+2016/08/14 14:52:54 Aplicou cartoons 
+2016/08/14 14:52:54 Baixou cartoons 
+2016/08/14 14:57:54 Apaga 
+2016/08/14 15:05:00 Populate weather main 
+2016/08/14 15:27:45 Aplicou cartoons 
+2016/08/14 15:32:04 Refresh map 
+2016/08/14 16:00:02 Shuffle news 
+2016/08/14 16:05:01 Populate weather main 
+2016/08/14 17:05:00 Populate weather main 
+2016/08/14 18:05:01 Populate weather main 
+2016/08/14 19:05:00 Populate weather main 
+2016/08/14 20:00:02 Shuffle news 
+2016/08/14 20:05:15 Populate weather main 
+2016/08/14 21:05:00 Populate weather main 
+2016/08/14 22:05:03 Populate weather main 
+2016/08/14 23:05:00 Populate weather main 
+2016/08/15 00:00:01 Populate dia 
+2016/08/15 00:00:55 Populate events 
+2016/08/15 00:00:55 Populate gil 
+2016/08/15 00:00:55 Populate news 
+2016/08/15 00:00:57 Shuffle news 
+2016/08/15 00:00:59 Populate calendar 
+2016/08/15 00:01:06 Populate emprestimos 
+2016/08/15 00:03:55 Populate messages 
+2016/08/15 00:03:57 Aplicou cartoons 
+2016/08/15 00:05:33 Populate weather main 
+2016/08/15 01:05:00 Populate weather main 
+2016/08/15 02:05:08 Populate weather main 
+2016/08/15 03:05:00 Populate weather main 
+2016/08/15 04:00:02 Shuffle news 
+2016/08/15 04:05:01 Populate weather main 
+2016/08/15 05:05:00 Populate weather main 
+2016/08/15 06:05:24 Populate weather main 
+2016/08/15 07:00:00 Mostra transito comp 
+2016/08/15 07:00:02 Populate transito 
+2016/08/15 07:00:02 Populate transito stat 
+2016/08/15 07:05:00 Populate weather main 
+2016/08/15 07:30:01 Populate transito 
+2016/08/15 07:30:01 Populate transito stat 
+2016/08/15 08:00:00 Populate transito 
+2016/08/15 08:00:00 Populate transito stat 
+2016/08/15 08:00:03 Shuffle news 
+2016/08/15 08:05:01 Populate weather main 
+2016/08/15 08:18:22 Aplicou cartoons 
+2016/08/15 08:18:34 Refresh map 
+2016/08/15 08:18:46 Aplicou cartoons 

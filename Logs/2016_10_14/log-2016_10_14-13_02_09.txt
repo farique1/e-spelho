@@ -1,0 +1,13 @@
+2016/10/14 13:02:09 Populate dia 
+2016/10/14 13:02:09 Populate events 
+2016/10/14 13:02:09 Populate gil 
+2016/10/14 13:02:09 Populate news 
+2016/10/14 13:02:09 Shuffle news 
+2016/10/14 13:02:09 Populate calendar 
+2016/10/14 13:02:09 Populate weather main 
+2016/10/14 13:02:09 Populate emprestimos 
+2016/10/14 13:02:09 Populate messages 
+2016/10/14 13:02:09 Acessou mapa 
+2016/10/14 13:02:10 Aplicou cartoons 
+2016/10/14 13:02:10 Baixou cartoons 
+2016/10/14 13:07:11 Apaga 

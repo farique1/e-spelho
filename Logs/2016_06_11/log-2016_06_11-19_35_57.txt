@@ -1,0 +1,11 @@
+2016/06/11 19:35:57 Populate dia 
+2016/06/11 19:35:57 Populate transito 
+2016/06/11 19:35:57 Populate transito stat 
+2016/06/11 19:35:57 Populate gil 
+2016/06/11 19:35:57 Populate news 
+2016/06/11 19:35:57 Populate calendar 
+2016/06/11 19:35:57 Populate weather main 
+2016/06/11 19:35:58 Populate weather forecast 
+2016/06/11 19:35:58 Populate emprestimos 
+2016/06/11 19:35:58 Populate messages 
+2016/06/11 19:36:00 Apaga transito comp 

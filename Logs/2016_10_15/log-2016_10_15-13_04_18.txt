@@ -1,0 +1,91 @@
+2016/10/15 13:04:26 Populate dia 
+2016/10/15 13:04:27 Populate events 
+2016/10/15 13:04:37 Populate gil 
+2016/10/15 13:04:54 Populate news 
+2016/10/15 13:04:56 Shuffle news 
+2016/10/15 13:04:58 Populate calendar 
+2016/10/15 13:04:59 Populate weather main 
+2016/10/15 13:05:02 Populate emprestimos 
+2016/10/15 13:05:04 Populate messages 
+2016/10/15 13:05:10 Acessou mapa 
+2016/10/15 13:05:29 Aplicou cartoons 
+2016/10/15 13:05:29 Baixou cartoons 
+2016/10/15 13:05:45 Aplicou cartoons 
+2016/10/15 13:06:06 Refresh map 
+2016/10/15 14:05:03 Populate weather main 
+2016/10/15 15:05:00 Populate weather main 
+2016/10/15 16:00:02 Shuffle news 
+2016/10/15 16:05:01 Populate weather main 
+2016/10/15 17:05:00 Populate weather main 
+2016/10/15 18:05:01 Populate weather main 
+2016/10/15 19:05:00 Populate weather main 
+2016/10/15 20:00:02 Shuffle news 
+2016/10/15 20:05:01 Populate weather main 
+2016/10/15 21:05:00 Populate weather main 
+2016/10/15 22:05:01 Populate weather main 
+2016/10/15 23:05:00 Populate weather main 
+2016/10/16 00:00:01 Populate dia 
+2016/10/16 00:00:02 Populate events 
+2016/10/16 00:00:02 Populate gil 
+2016/10/16 00:00:02 Populate news 
+2016/10/16 00:00:05 Shuffle news 
+2016/10/16 00:00:11 Populate calendar 
+2016/10/16 00:00:14 Populate emprestimos 
+2016/10/16 00:00:15 Populate messages 
+2016/10/16 00:00:21 Aplicou cartoons 
+2016/10/16 00:05:02 Populate weather main 
+2016/10/16 01:05:00 Populate weather main 
+2016/10/16 02:05:01 Populate weather main 
+2016/10/16 03:05:00 Populate weather main 
+2016/10/16 04:00:02 Shuffle news 
+2016/10/16 04:05:01 Populate weather main 
+2016/10/16 05:05:00 Populate weather main 
+2016/10/16 06:05:01 Populate weather main 
+2016/10/16 07:05:00 Populate weather main 
+2016/10/16 08:00:02 Shuffle news 
+2016/10/16 08:05:01 Populate weather main 
+2016/10/16 09:05:00 Populate weather main 
+2016/10/16 10:05:02 Populate weather main 
+2016/10/16 11:05:00 Populate weather main 
+2016/10/16 12:00:02 Shuffle news 
+2016/10/16 12:05:01 Populate weather main 
+2016/10/16 13:05:00 Populate weather main 
+2016/10/16 14:05:01 Populate weather main 
+2016/10/16 15:05:00 Populate weather main 
+2016/10/16 16:00:02 Shuffle news 
+2016/10/16 16:05:01 Populate weather main 
+2016/10/16 17:05:00 Populate weather main 
+2016/10/16 18:05:01 Populate weather main 
+2016/10/16 19:05:00 Populate weather main 
+2016/10/16 20:00:02 Shuffle news 
+2016/10/16 20:05:01 Populate weather main 
+2016/10/16 21:05:00 Populate weather main 
+2016/10/16 22:05:01 Populate weather main 
+2016/10/16 23:05:00 Populate weather main 
+2016/10/17 00:00:01 Populate dia 
+2016/10/17 00:00:01 Populate events 
+2016/10/17 00:00:02 Populate gil 
+2016/10/17 00:00:03 Populate news 
+2016/10/17 00:00:06 Shuffle news 
+2016/10/17 00:00:08 Populate calendar 
+2016/10/17 00:00:11 Populate emprestimos 
+2016/10/17 00:00:12 Populate messages 
+2016/10/17 00:00:19 Aplicou cartoons 
+2016/10/17 00:05:02 Populate weather main 
+2016/10/17 01:05:00 Populate weather main 
+2016/10/17 02:05:01 Populate weather main 
+2016/10/17 03:05:00 Populate weather main 
+2016/10/17 04:00:02 Shuffle news 
+2016/10/17 04:05:01 Populate weather main 
+2016/10/17 05:05:00 Populate weather main 
+2016/10/17 06:05:01 Populate weather main 
+2016/10/17 07:00:00 Mostra transito comp 
+2016/10/17 07:00:01 Populate transito 
+2016/10/17 07:00:01 Populate transito stat 
+2016/10/17 07:05:00 Populate weather main 
+2016/10/17 07:30:00 Populate transito 
+2016/10/17 07:30:01 Populate transito stat 
+2016/10/17 08:00:00 Populate transito 
+2016/10/17 08:00:01 Populate transito stat 
+2016/10/17 08:00:03 Shuffle news 
+2016/10/17 08:05:01 Populate weather main 

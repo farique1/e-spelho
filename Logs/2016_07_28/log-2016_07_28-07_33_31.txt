@@ -1,0 +1,48 @@
+2016/07/28 07:33:32 Populate dia 
+2016/07/28 07:33:33 Populate transito 
+2016/07/28 07:33:33 Populate transito stat 
+2016/07/28 07:33:35 Populate gil 
+2016/07/28 07:33:37 Populate news 
+2016/07/28 07:33:39 Shuffle news 
+2016/07/28 07:33:40 Populate calendar 
+2016/07/28 07:33:42 Populate weather main 
+2016/07/28 07:33:45 Populate emprestimos 
+2016/07/28 07:33:46 Populate messages 
+2016/07/28 07:33:51 Acessou mapa 
+2016/07/28 07:33:56 Aplicou cartoons 
+2016/07/28 07:33:56 Baixou cartoons 
+2016/07/28 07:34:51 Aplicou cartoons 
+2016/07/28 07:36:53 Refresh map 
+2016/07/28 07:38:56 Apaga 
+2016/07/28 08:00:00 Populate transito 
+2016/07/28 08:00:00 Populate transito stat 
+2016/07/28 08:00:03 Shuffle news 
+2016/07/28 08:05:00 Populate weather main 
+2016/07/28 08:30:00 Populate transito 
+2016/07/28 08:30:00 Populate transito stat 
+2016/07/28 09:00:01 Populate transito 
+2016/07/28 09:00:01 Populate transito stat 
+2016/07/28 09:05:01 Populate weather main 
+2016/07/28 09:30:01 Populate transito 
+2016/07/28 09:30:01 Populate transito stat 
+2016/07/28 10:00:01 Populate transito 
+2016/07/28 10:00:01 Populate transito stat 
+2016/07/28 10:05:00 Populate weather main 
+2016/07/28 10:30:00 Populate transito 
+2016/07/28 10:30:01 Populate transito stat 
+2016/07/28 11:00:01 Populate transito 
+2016/07/28 11:00:01 Populate transito stat 
+2016/07/28 11:05:00 Populate weather main 
+2016/07/28 11:30:01 Populate transito 
+2016/07/28 11:30:01 Populate transito stat 
+2016/07/28 12:00:00 Mostra eventos 
+2016/07/28 12:00:00 Populate events 
+2016/07/28 12:00:03 Shuffle news 
+2016/07/28 12:05:00 Populate weather main 
+2016/07/28 13:05:00 Populate weather main 
+2016/07/28 14:05:00 Populate weather main 
+2016/07/28 15:05:00 Populate weather main 
+2016/07/28 16:00:02 Shuffle news 
+2016/07/28 16:05:00 Populate weather main 
+2016/07/28 17:05:00 Populate weather main 
+2016/07/28 18:05:00 Populate weather main 

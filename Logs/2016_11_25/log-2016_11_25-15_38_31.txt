@@ -1,0 +1,54 @@
+2016/11/25 15:38:32 Populate dia 
+2016/11/25 15:38:32 Populate events 
+2016/11/25 15:38:36 Populate gil 
+2016/11/25 15:38:38 Populate news 
+2016/11/25 15:38:40 Shuffle news 
+2016/11/25 15:38:41 Populate calendar 
+2016/11/25 15:38:44 Populate weather main 
+2016/11/25 15:38:46 Populate emprestimos 
+2016/11/25 15:38:48 Populate messages 
+2016/11/25 15:38:56 Acessou mapa 
+2016/11/25 15:39:17 Aplicou cartoons 
+2016/11/25 15:39:17 Baixou cartoons 
+2016/11/25 16:00:02 Shuffle news 
+2016/11/25 16:05:00 Populate weather main 
+2016/11/25 17:05:01 Populate weather main 
+2016/11/25 18:05:00 Populate weather main 
+2016/11/25 19:05:01 Populate weather main 
+2016/11/25 20:00:02 Shuffle news 
+2016/11/25 20:05:00 Populate weather main 
+2016/11/25 21:05:02 Populate weather main 
+2016/11/25 22:05:00 Populate weather main 
+2016/11/25 23:05:01 Populate weather main 
+2016/11/26 00:00:01 Populate dia 
+2016/11/26 00:00:02 Populate events 
+2016/11/26 00:00:02 Populate gil 
+2016/11/26 00:00:02 Populate news 
+2016/11/26 00:00:05 Shuffle news 
+2016/11/26 00:00:06 Populate calendar 
+2016/11/26 00:00:08 Populate emprestimos 
+2016/11/26 00:00:09 Populate messages 
+2016/11/26 00:00:13 Aplicou cartoons 
+2016/11/26 00:05:00 Populate weather main 
+2016/11/26 01:05:01 Populate weather main 
+2016/11/26 02:05:00 Populate weather main 
+2016/11/26 03:05:02 Populate weather main 
+2016/11/26 04:00:02 Shuffle news 
+2016/11/26 04:05:00 Populate weather main 
+2016/11/26 05:05:03 Populate weather main 
+2016/11/26 06:05:00 Populate weather main 
+2016/11/26 07:05:04 Populate weather main 
+2016/11/26 08:00:02 Shuffle news 
+2016/11/26 08:05:00 Populate weather main 
+2016/11/26 09:05:02 Populate weather main 
+2016/11/26 10:05:00 Populate weather main 
+2016/11/26 11:05:05 Populate weather main 
+2016/11/26 12:00:02 Shuffle news 
+2016/11/26 12:05:00 Populate weather main 
+2016/11/26 13:05:02 Populate weather main 
+2016/11/26 14:05:00 Populate weather main 
+2016/11/26 15:05:02 Populate weather main 
+2016/11/26 16:00:02 Shuffle news 
+2016/11/26 16:05:00 Populate weather main 
+2016/11/26 17:05:02 Populate weather main 
+2016/11/26 18:05:00 Populate weather main 

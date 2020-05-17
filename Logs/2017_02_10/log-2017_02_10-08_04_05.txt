@@ -1,0 +1,33 @@
+2017/02/10 08:04:06 Populate dia 
+2017/02/10 08:04:11 Populate transito 
+2017/02/10 08:04:12 Populate transito stat 
+2017/02/10 08:04:18 Populate gil 
+2017/02/10 08:04:29 Populate news 
+2017/02/10 08:04:32 Shuffle news 
+2017/02/10 08:04:33 Populate calendar 
+2017/02/10 08:04:52 Populate weather main 
+2017/02/10 08:04:55 Populate emprestimos 
+2017/02/10 08:05:00 Populate messages 
+2017/02/10 08:05:16 Acessou mapa 
+2017/02/10 08:05:30 Aplicou cartoons 
+2017/02/10 08:05:30 Baixou cartoons 
+2017/02/10 08:30:01 Populate transito 
+2017/02/10 08:30:01 Populate transito stat 
+2017/02/10 09:00:01 Populate transito 
+2017/02/10 09:00:01 Populate transito stat 
+2017/02/10 09:05:01 Populate weather main 
+2017/02/10 09:30:01 Populate transito 
+2017/02/10 09:30:01 Populate transito stat 
+2017/02/10 10:00:01 Populate transito 
+2017/02/10 10:00:01 Populate transito stat 
+2017/02/10 10:05:00 Populate weather main 
+2017/02/10 10:30:01 Populate transito 
+2017/02/10 10:30:01 Populate transito stat 
+2017/02/10 11:00:02 Populate transito 
+2017/02/10 11:00:02 Populate transito stat 
+2017/02/10 11:05:01 Populate weather main 
+2017/02/10 11:30:03 Populate transito 
+2017/02/10 11:30:03 Populate transito stat 
+2017/02/10 12:00:00 Mostra eventos 
+2017/02/10 12:00:19 Populate events 
+2017/02/10 12:00:22 Shuffle news 

@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>All Top News -- ScienceDaily</title>
+		<link>https://www.sciencedaily.com/news/top/</link>
+		<description>Top science stories featured on ScienceDaily's home page.</description>
+		<language>en-us</language>
+		<pubDate>Wed, 11 May 2016 18:18:01 EDT</pubDate>
+		<lastBuildDate>Wed, 11 May 2016 18:18:01 EDT</lastBuildDate>
+		<ttl>60</ttl>
+		<image>
+			<title>All Top News -- ScienceDaily</title>
+			<url>https://www.sciencedaily.com/images/scidaily-logo-rss.png</url>
+			<link>https://www.sciencedaily.com/news/top/</link>
+			<description>For more science news, visit ScienceDaily.</description>
+		</image>
+		<atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" href="https://rss.sciencedaily.com/top.xml" type="application/rss+xml" />
+		<item>
+			<title>Chemists find &#039;huge shortcut&#039; for organic synthesis using C-H bonds</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511154425.htm</link>
+			<description>Chemists have demonstrated the ability to selectively functionalize the unreactive carbon-hydrogen (C-H) bonds of an alkane without using a directing group, while also maintaining virtually full control of site selectivity and the three-dimensional shape of the molecules produced. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511154425.jpg" height="225" width="300" />
+			<pubDate>Wed, 11 May 2016 15:44:25 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511154425.htm</guid>
+		</item>
+		<item>
+			<title>Cosmic dust reveals Earth&#039;s ancient atmosphere</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511154214.htm</link>
+			<description>Using the oldest fossil micrometeorites -- space dust -- ever found, new research has made a surprising discovery about the chemistry of Earth&#039;s atmosphere 2.7 billion years ago. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511154214.jpg" height="240" width="300" />
+			<pubDate>Wed, 11 May 2016 15:42:14 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511154214.htm</guid>
+		</item>
+		<item>
+			<title>Brain imaging links Alzheimer&#039;s decline to tau protein</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511143154.htm</link>
+			<description>Using a new imaging agent that binds to tau protein and makes it visible in positron emission tomography (PET) scans, scientists have shown that measures of tau are better markers of the cognitive decline characteristic of Alzheimer&#039;s than measures of amyloid beta seen in PET scans. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511143154.jpg" height="200" width="300" />
+			<pubDate>Wed, 11 May 2016 14:31:54 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511143154.htm</guid>
+		</item>
+		<item>
+			<title>A quasiparticle collider</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511142401.htm</link>
+			<description>Experiments prove that basic collider concepts from particle physics can be transferred to solid-state research. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511142401.jpg" height="425" width="300" />
+			<pubDate>Wed, 11 May 2016 14:24:01 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511142401.htm</guid>
+		</item>
+		<item>
+			<title>Brazilian Zika virus strain causes birth defects in experimental models</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511142354.htm</link>
+			<description>Researchers have described the first &#039;direct experimental proof&#039; that the Brazilian strain of Zika virus can actually cause severe birth defects. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511142354.jpg" height="328" width="300" />
+			<pubDate>Wed, 11 May 2016 14:23:54 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511142354.htm</guid>
+		</item>
+		<item>
+			<title>How the spectacular Hawaiian-Emperor seamount chain became so bendy</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511142351.htm</link>
+			<description>The physical mechanism causing the unique, sharp bend in the spectacular Hawaiian-Emperor seamount chain has now been uncovered. Researchers used a world-leading supercomputer to reveal flow patterns just above the Earth&#039;s core -- over the past 100 million years. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511142351.jpg" height="165" width="300" />
+			<pubDate>Wed, 11 May 2016 14:23:51 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511142351.htm</guid>
+		</item>
+		<item>
+			<title>Exoplanets&#039; complex orbital structure points to planetary migration in solar systems</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511142349.htm</link>
+			<description>The four planets of the Kepler-223 star system seem to have little in common with the planets of Earth&#039;s own solar system. And yet a new study shows that the Kepler-223 system is trapped in an orbital configuration that Jupiter, Saturn, Uranus, and Neptune may have broken from in the early history of the solar system. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511142349.jpg" height="200" width="300" />
+			<pubDate>Wed, 11 May 2016 14:23:49 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511142349.htm</guid>
+		</item>
+		<item>
+			<title>Genetic links to educational attainment identified</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511134721.htm</link>
+			<description>Researchers have identified 74 areas of the human genome associated with educational attainment. It is well known that social and other environmental factors influence education, but these findings suggest that large genetics analyses may be able to help discover biological pathways as well. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511134721.jpg" height="200" width="300" />
+			<pubDate>Wed, 11 May 2016 13:47:21 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511134721.htm</guid>
+		</item>
+		<item>
+			<title>Climate change may have contributed to extinction of Neanderthals</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511133201.htm</link>
+			<description>Neanderthals in Europe showed signs of nutritional stress during periods of extreme cold, suggesting climate change may have contributed to their demise around 40,000 years ago. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511133201.jpg" height="450" width="300" />
+			<pubDate>Wed, 11 May 2016 13:32:01 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511133201.htm</guid>
+		</item>
+		<item>
+			<title>Paper gets &#039;smart&#039; with drawn-on, stenciled sensor tags</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511133154.htm</link>
+			<description>Researchers have created ways to give a piece of paper sensing capabilities that allows it to respond to gesture commands and connect to the digital world. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511133154.jpg" height="180" width="300" />
+			<pubDate>Wed, 11 May 2016 13:31:54 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511133154.htm</guid>
+		</item>
+		<item>
+			<title>Mouse models of Zika in pregnancy show how fetuses become infected</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511131718.htm</link>
+			<description>Two mouse models of Zika virus infection in pregnancy have been developed. In them, the virus migrated from the pregnant mouse&#039;s bloodstream into the placenta, where it multiplied, then spread into the fetal circulation and infected the brains of the developing pups. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511131718.jpg" height="200" width="300" />
+			<pubDate>Wed, 11 May 2016 13:17:18 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511131718.htm</guid>
+		</item>
+		<item>
+			<title>Fetal mice with Zika infection get microcephaly</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511131707.htm</link>
+			<description>Mouse fetuses injected with the Asian Zika virus strain and carried to term within their pregnant mothers display the characteristic features of microcephaly, researchers report. As expected, the virus infected the neural progenitor cells, and infected brains reveal expression of genes related to viral entry, altered immune response, and cell death. The authors say this is direct evidence that Zika infection causes microcephaly in an animal model. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511131707.jpg" height="118" width="300" />
+			<pubDate>Wed, 11 May 2016 13:17:07 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511131707.htm</guid>
+		</item>
+		<item>
+			<title>Twin study finds that gut microbiomes run in families</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511131704.htm</link>
+			<description>A genome-wide association analysis of over 1,000 twins in the UK supports that some parts of our microbiomes are inherited and shaped -- not through a spread of microbes from parent to child, but through our genes. The results, reveal new examples of heritable bacterial species including those related to diet preference, metabolism, and immune defense. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511131704.jpg" height="300" width="300" />
+			<pubDate>Wed, 11 May 2016 13:17:04 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511131704.htm</guid>
+		</item>
+		<item>
+			<title>Archaeologists uncover 13,000-year-old bones of ancient, extinct species of bison at Old Vero Man site</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511123812.htm</link>
+			<description>In what is considered one of the oldest and most important archaeological digs in North America, scientists have uncovered what they believe are the bones of a 13,000- to 14,000-year-old ancient, extinct species of bison at the Old Vero Man Site in Vero Beach, Fla. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511123812.jpg" height="199" width="300" />
+			<pubDate>Wed, 11 May 2016 12:38:12 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511123812.htm</guid>
+		</item>
+		<item>
+			<title>Fossil dog: New species roamed eastern North America 12 million years ago</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511122514.htm</link>
+			<description>A doctoral student at the University of Pennsylvania has identified a new species of fossil dog. The specimen, found in Maryland, would have roamed the coast of eastern North America approximately 12 million years ago, at a time when massive sharks like megalodon swam in the oceans. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511122514.jpg" height="230" width="300" />
+			<pubDate>Wed, 11 May 2016 12:25:14 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511122514.htm</guid>
+		</item>
+		<item>
+			<title>Too much folate in pregnant women increases risk for autism, study suggests</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511105352.htm</link>
+			<description>Women who plan on becoming pregnant are told they need enough of the nutrient folate to ensure proper neurodevelopment of their babies, but new research suggests there could be serious risks in having far too much of the same nutrient. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511105352.jpg" height="200" width="300" />
+			<pubDate>Wed, 11 May 2016 10:53:52 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511105352.htm</guid>
+		</item>
+		<item>
+			<title>Swept up in the solar wind</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511102655.htm</link>
+			<description>The sun&#039;s outer layer, the corona, constantly streams out charged particles called the solar wind. But it&#039;s not the kind of wind you can fly a kite in. Even the slowest solar wind can reach speeds 700,000 mph. And while scientists know a great deal about solar wind, the source and causes of the slow wind remain mysterious. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511102655.jpg" height="221" width="300" />
+			<pubDate>Wed, 11 May 2016 10:26:55 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511102655.htm</guid>
+		</item>
+		<item>
+			<title>Highway noise deters communication between birds</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511093144.htm</link>
+			<description>Northern cardinals and tufted titmice are two abundant bird species in the woods of eastern North America. Many bird and mammal species rely on information from tufted titmice calls to detect and respond to dangerous predators. This causes important information networks to form around tufted titmouse communication. Results of a new study suggests that too much noise around highways keeps birds from hearing warnings from fellow birds about predators in the area, and that puts them at a higher risk of being eaten. It is also possible that the birds are hearing the alarms, but are too distracted by the noise to respond to them. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511093144.jpg" height="225" width="300" />
+			<pubDate>Wed, 11 May 2016 09:31:44 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511093144.htm</guid>
+		</item>
+		<item>
+			<title>Tent camping could lead to flame retardant exposure</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511092945.htm</link>
+			<description>For campers, nothing beats sleeping in a tent in the great outdoors. But scientists are finding out the air inside tents might not be as fresh as people think. A study has found that flame retardants used in the manufacturing of tents are released in the air within this enclosed space, which could lead to campers breathing them in. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511092945.jpg" height="200" width="300" />
+			<pubDate>Wed, 11 May 2016 09:29:45 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511092945.htm</guid>
+		</item>
+		<item>
+			<title>What mountain gorillas reveal with their teeth</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511084337.htm</link>
+			<description>Mountain gorillas from Volcanoes National Park in Rwanda eat up to 30 kilos of plants a day and their diet is highly varied in a habitat that is becoming increasingly fragmented as a result of illegal hunting and deforestation. For the first time, a study shows how dental morphology adapts to the food that is available. The information from the wear on their teeth is used to identify specimens that disappear. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511084337.jpg" height="201" width="300" />
+			<pubDate>Wed, 11 May 2016 08:43:37 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511084337.htm</guid>
+		</item>
+		<item>
+			<title>New test by deepest galaxy map finds Einstein’s theory stands true</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160511084114.htm</link>
+			<description>Astronomers have made a 3D map of 3000 galaxies 13 billion light years from Earth, and found that Einstein&#039;s general theory of relativity is still valid. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160511084114.jpg" height="225" width="300" />
+			<pubDate>Wed, 11 May 2016 08:41:14 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160511084114.htm</guid>
+		</item>
+		<item>
+			<title>World&#039;s oldest axe fragment found in Australia</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160510165112.htm</link>
+			<description>Australian archaeologists have discovered a piece of the world&#039;s oldest axe in the remote Kimberley region of Western Australia. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160510165112.jpg" height="349" width="300" />
+			<pubDate>Tue, 10 May 2016 16:51:12 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160510165112.htm</guid>
+		</item>
+		<item>
+			<title>More than 1,200 new planets confirmed using new technique for verifying Kepler data</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160510143704.htm</link>
+			<description>Scientists have confirmed that 1,284 objects observed outside Earth&#039;s solar system by NASA&#039;s Kepler spacecraft are indeed planets. The researchers used an automated technique that allows scientists to efficiently determine if a Kepler signal is caused by a planet. It is the largest single announcement of new planets to date and more than doubles the number of confirmed planets discovered by Kepler so far. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160510143704.jpg" height="190" width="300" />
+			<pubDate>Tue, 10 May 2016 14:37:04 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160510143704.htm</guid>
+		</item>
+		<item>
+			<title>Deep-water seaweed evolved into a multi-cellular plant more than 540 million years ago</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160510134841.htm</link>
+			<description>The discovery of a deep-water seaweed that evolved into a multi-cellular plant more than 540 million years ago has added a new branch to the tree of life, according to biologists. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160510134841.jpg" height="347" width="300" />
+			<pubDate>Tue, 10 May 2016 13:48:41 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160510134841.htm</guid>
+		</item>
+		<item>
+			<title>Brain pattern predicts how fast an adult learns a new language</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160510134304.htm</link>
+			<description>A five-minute measurement of resting-state brain activity predicted how quickly adults learned a second language, report scientists. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160510134304.jpg" height="173" width="300" />
+			<pubDate>Tue, 10 May 2016 13:43:04 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160510134304.htm</guid>
+		</item>
+		<item>
+			<title>Stem cells from diabetic patients coaxed to become insulin-secreting cells</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160510132809.htm</link>
+			<description>Signaling a potential new approach to treating diabetes, researchers have produced insulin-secreting cells from stem cells derived from patients with type 1 diabetes. The new discovery suggests a personalized treatment approach to diabetes may be on the horizon -- one that relies on the patients&#039; own stem cells to manufacture new cells that make insulin. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160510132809.jpg" height="200" width="300" />
+			<pubDate>Tue, 10 May 2016 13:28:09 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160510132809.htm</guid>
+		</item>
+		<item>
+			<title>Out of mind, out of sight: Brain&#039;s frontal cortex controls vision</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160510124822.htm</link>
+			<description>Ever search desperately for something, then realize you were looking straight at it the whole time? Research indicates that vision is controlled by the part of the brain associated with thinking. And in sight, too, it can be absent minded. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160510124822.jpg" height="235" width="300" />
+			<pubDate>Tue, 10 May 2016 12:48:22 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160510124822.htm</guid>
+		</item>
+		<item>
+			<title>Hijacked cell division helped fuel rise of fungi</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160510124654.htm</link>
+			<description>The more than 90,000 known species of fungi may owe their abilities to spread and even cause disease to an ancient virus that hijacked their cell division machinery, researchers report. Over a billion years ago, a viral protein invaded the fungal genome, generating a family of proteins that now play key roles in fungal growth. The research could point to new antifungals that inhibit cell division in fungi but not in their plant or animal hosts. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160510124654.jpg" height="200" width="300" />
+			<pubDate>Tue, 10 May 2016 12:46:54 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160510124654.htm</guid>
+		</item>
+		<item>
+			<title>Fatal road crashes involving marijuana double after state legalizes drug</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160510103131.htm</link>
+			<description>Fatal crashes involving drivers who recently used marijuana doubled in Washington after the state legalized the drug, according to the latest research. New research also shows that legal limits for marijuana and driving are arbitrary and unsupported by science, which could result in unsafe motorists going free and others being wrongfully convicted for impaired driving. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160510103131.jpg" height="200" width="300" />
+			<pubDate>Tue, 10 May 2016 10:31:31 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160510103131.htm</guid>
+		</item>
+		<item>
+			<title>When you take acetaminophen, you don&#039;t feel others&#039; pain as much</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160510084257.htm</link>
+			<description>When you take acetaminophen to reduce your pain, you may also be decreasing your empathy for both the physical and social aches that other people experience, a new study suggests. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160510084257.jpg" height="201" width="300" />
+			<pubDate>Tue, 10 May 2016 08:42:57 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160510084257.htm</guid>
+		</item>
+		<item>
+			<title>Intraocular therapy prevents or reverses diabetic retinopathy in mice</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160510084201.htm</link>
+			<description>Pathologic changes of the retina caused by diabetes is the leading cause of blindness in working adults. Diabetic retinopathy has no known cure, treatment options are inadequate, and prevention strategies offer limited protection. In the first of its kind, a report in The American Journal of Pathology describes a potential new intraocular treatment based on manipulating the renin angiotensin system (RAS) that both prevents and reverses some characteristics of diabetic retinopathy in a mouse model. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160510084201.jpg" height="300" width="300" />
+			<pubDate>Tue, 10 May 2016 08:42:01 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160510084201.htm</guid>
+		</item>
+		<item>
+			<title>Tiger moths use signals to warn bats: Toxic not tasty</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160509191836.htm</link>
+			<description>Acoustic warning signals emitted by tiger moths to deter bats -- a behavior previously proven only in the laboratory -- actually occur in nature and are used as a defense mechanism, according to new research. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160509191836.jpg" height="200" width="300" />
+			<pubDate>Mon, 09 May 2016 19:18:36 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160509191836.htm</guid>
+		</item>
+		<item>
+			<title>Agricultural ammonia emissions disrupt Earth&#039;s delicate nitrogen balance</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160509191007.htm</link>
+			<description>New research indicates that nitrogen cycle disturbance from emissions of agriculture-related ammonia now exceeds the effects of fossil fuel combustion emissions. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160509191007.jpg" height="185" width="300" />
+			<pubDate>Mon, 09 May 2016 19:10:07 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160509191007.htm</guid>
+		</item>
+		<item>
+			<title>Insight into the mystery of smell</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160509191004.htm</link>
+			<description>Researchers have uncovered the mechanism underlying a phenomenon in how we smell that has puzzled researchers for several decades. In a new article, the team reports that, surprisingly, the mechanism follows a simple physics principle called cooperativity. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160509191004.jpg" height="200" width="300" />
+			<pubDate>Mon, 09 May 2016 19:10:04 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160509191004.htm</guid>
+		</item>
+		<item>
+			<title>Sleuths search the seas for soot</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160509145813.htm</link>
+			<description>Earth system scientists have taken water samples from the north Pacific, north and south Atlantic, and Arctic oceans in search of repositories of black carbon, soot from burning biomass and diesel engines, among other sources. They&#039;ve found considerably less of the material than expected, and they&#039;ve discovered that it exists in at least two varieties, a younger pool closer to the ocean&#039;s surface that is absorbed into the environment in a roughly 100-year cycle and an ancient reserve that remains stable for millennia. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160509145813.jpg" height="400" width="300" />
+			<pubDate>Mon, 09 May 2016 14:58:13 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160509145813.htm</guid>
+		</item>
+		<item>
+			<title>This 5-fingered robot hand learns to get a grip on its own</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160509145524.htm</link>
+			<description>Computer science experts and engineering researchers have built a robot hand that can not only perform dexterous manipulation -- one of the most difficult problems in robotics to solve -- but also learn from its own experience. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160509145524.jpg" height="200" width="300" />
+			<pubDate>Mon, 09 May 2016 14:55:24 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160509145524.htm</guid>
+		</item>
+		<item>
+			<title>Leftover warm water in Pacific Ocean fueled massive El Niño</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160509145519.htm</link>
+			<description>A new study provides insight into how the current El Niño, one of the strongest on record, formed in the Pacific Ocean. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160509145519.jpg" height="170" width="300" />
+			<pubDate>Mon, 09 May 2016 14:55:19 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160509145519.htm</guid>
+		</item>
+		<item>
+			<title>Experimental therapy halts treatment-resistant brain tumors in mouse model</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160509132444.htm</link>
+			<description>Researchers report an experimental therapy that in laboratory tests stops aggressive, treatment-resistant and deadly brain cancers called glioblastoma and high-grade gliomas. Testing a multi-step therapeutic strategy, the scientists found a way to use a gene therapy to shut down a gene long-implicated in the formation of high-grade gliomas called Olig2. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160509132444.jpg" height="300" width="300" />
+			<pubDate>Mon, 09 May 2016 13:24:44 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160509132444.htm</guid>
+		</item>
+		<item>
+			<title>Intense wind found in the neighborhood of a black hole</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160509115600.htm</link>
+			<description>Astrophysicists have detected an intense wind from one of the closest known black holes to the Earth. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160509115600.jpg" height="167" width="300" />
+			<pubDate>Mon, 09 May 2016 11:56:00 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160509115600.htm</guid>
+		</item>
+		<item>
+			<title>Malaria vaccine protects adults for up to a year, new study finds</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160509115554.htm</link>
+			<description>Malaria infects hundreds of millions of people every year, and kills more than half a million, most of them under the age of 5 years. There is no vaccine. But now, a new study has found that an experimental malaria vaccine protected adults from infection for more than a year. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160509115554.jpg" height="199" width="300" />
+			<pubDate>Mon, 09 May 2016 11:55:54 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160509115554.htm</guid>
+		</item>
+		<item>
+			<title>&#039;Second skin&#039;: New material temporarily tightens skin</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160509115127.htm</link>
+			<description>Scientists have developed a new material that can temporarily protect and tighten skin, and smooth wrinkles. With further development, it could also be used to deliver drugs to help treat skin conditions such as eczema and other types of dermatitis. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160509115127.jpg" height="200" width="300" />
+			<pubDate>Mon, 09 May 2016 11:51:27 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160509115127.htm</guid>
+		</item>
+		<item>
+			<title>Map of flow within the Earth&#039;s mantle finds the surface moving up and down &#039;like a yo-yo&#039;</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160509115116.htm</link>
+			<description>Researchers have compiled the first global set of observations of flow within the Earth&#039;s mantle -- the layer between the crust and the core -- and found that it is moving much faster than has been predicted. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160509115116.jpg" height="146" width="300" />
+			<pubDate>Mon, 09 May 2016 11:51:16 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160509115116.htm</guid>
+		</item>
+		<item>
+			<title>Early Earth&#039;s air weighed less than half of today&#039;s atmosphere</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160509115114.htm</link>
+			<description>Bubbles trapped in ancient lava shows the early Earth did not have a thicker atmosphere -- the air pressure 2.7 billion years ago was at most half of today&#039;s. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160509115114.jpg" height="200" width="300" />
+			<pubDate>Mon, 09 May 2016 11:51:14 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160509115114.htm</guid>
+		</item>
+		<item>
+			<title>Infants swaddling for sleep associated with sudden infant death syndrome</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160509105604.htm</link>
+			<description>The risk of sudden infant death syndrome appears to increase when infants are swaddled while sleeping on their stomachs or sides, new research has found. The analysis looked at four studies, which spanned two decades and covered three diverse geographical areas, including regions of England, Tasmania in Australia, and Chicago, Ill. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160509105604.jpg" height="199" width="300" />
+			<pubDate>Mon, 09 May 2016 10:56:04 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160509105604.htm</guid>
+		</item>
+		<item>
+			<title>Where you are is who you are: How enclosed and open spaces affect cognition</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160509105546.htm</link>
+			<description>A recent study suggests that who we are might be more integrated with where we are than previously thought. The fact that experience can shape individual differences, which in turn can affect the quality of spatial and social cognition a person, suggests that growing up in certain built environments can have detrimental or beneficial effects on their cognitive ability. This brings up questions such as whether raising children in enclosed spaces versus open spaces will result in differences in spatial and social cognition. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160509105546.jpg" height="450" width="300" />
+			<pubDate>Mon, 09 May 2016 10:55:46 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160509105546.htm</guid>
+		</item>
+		<item>
+			<title>Artificial intelligence course creates AI teaching assistant</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160509101930.htm</link>
+			<description>Jill Watson is a virtual teaching assistant. She was one of nine teaching assistants in an artificial intelligence online course. And none of the students guessed she wasn&#039;t a human. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160509101930.jpg" height="200" width="300" />
+			<pubDate>Mon, 09 May 2016 10:19:30 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160509101930.htm</guid>
+		</item>
+		<item>
+			<title>Hormones that are released during hunger affect decision making</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160509085807.htm</link>
+			<description>Never make a decision when you are hungry. The hormone ghrelin - that is released before meals and known to increase appetite - has a negative effect on both decision making and impulse control, report scientists. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160509085807.jpg" height="273" width="300" />
+			<pubDate>Mon, 09 May 2016 08:58:07 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160509085807.htm</guid>
+		</item>
+		<item>
+			<title>Simulating the evolution of Mars volcano Olympus Mons</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160509085751.htm</link>
+			<description>Scientists have succeeded in creating a model simulating the formation of mysterious structures on the surface of the Mars volcano, Olympus Mons. The research project is based on image data of the High Resolution Stereo Camera (HRSC) that is installed on the European Mars Express spacecraft, which has been orbiting the red planet since December 2003. Using the camera images, the scientists in the Planetary Sciences and Remote Sensing group generated a mosaic and a terrain model of the Olympus Mons volcano. The image data show that the volcano shield is shaped in the form of arched terraces and the foot of the otherwise very flat volcano drops steeply. The origin of the terraces and the steep slope of Olympus Mons were discussed heatedly in previous publications. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160509085751.jpg" height="194" width="300" />
+			<pubDate>Mon, 09 May 2016 08:57:51 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160509085751.htm</guid>
+		</item>
+		<item>
+			<title>Digital media may be changing how you think</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160508151944.htm</link>
+			<description>Tablet and laptop users beware. Using digital platforms such as tablets and laptops for reading may make you more inclined to focus on concrete details rather than interpreting information more abstractly, according to a new study. The findings serve as another wake-up call to how digital media may be affecting our likelihood of using abstract thought. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160508151944.jpg" height="200" width="300" />
+			<pubDate>Sun, 08 May 2016 15:19:44 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160508151944.htm</guid>
+		</item>
+		<item>
+			<title>Scientists cite evidence that mosasaurs were warm-blooded</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160506160429.htm</link>
+			<description>Mosasaurs -- an extinct group of aquatic reptiles that thrived during the Late Cretaceous period -- possibly were &quot;endotherms,&quot; or warm-blooded creatures. Mosasurs were large aquatic reptiles that went extinct at the end of the Cretaceous period, about 66 million years ago. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160506160429.jpg" height="188" width="300" />
+			<pubDate>Fri, 06 May 2016 16:04:29 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160506160429.htm</guid>
+		</item>
+		<item>
+			<title>&#039;Hammerhead&#039; creature was world&#039;s first plant-eating marine reptile</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160506160110.htm</link>
+			<description>Newly-discovered fossils of the Triassic marine reptile Atopodentatus unicus have revealed that the animal had a bizarre hammerhead-shaped jaw apparatus. It used its strange jaw to feed on plants, making it the first herbivorous marine reptile. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160506160110.jpg" height="225" width="300" />
+			<pubDate>Fri, 06 May 2016 16:01:10 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160506160110.htm</guid>
+		</item>
+		<item>
+			<title>Smartphones uncover how the world sleeps</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160506160105.htm</link>
+			<description>A pioneering study of worldwide sleep patterns combines math modeling, mobile apps and big data to parse the roles society and biology each play in setting sleep schedules. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160506160105.jpg" height="199" width="300" />
+			<pubDate>Fri, 06 May 2016 16:01:05 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160506160105.htm</guid>
+		</item>
+		<item>
+			<title>Quick test for Zika effectively detects virus in monkeys</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160506132205.htm</link>
+			<description>Scientists have developed a low-cost, rapid paper-based diagnostic system for strain-specific detection of the Zika virus, with the goal that it could soon be used in the field to screen blood, urine, or saliva samples. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160506132205.jpg" height="169" width="300" />
+			<pubDate>Fri, 06 May 2016 13:22:05 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160506132205.htm</guid>
+		</item>
+		<item>
+			<title>Zika virus may cause microcephaly by hijacking human immune molecule</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160506132202.htm</link>
+			<description>For the first time, researchers have determined one way Zika virus infection can damage developing brain cells. The study also shows that inhibiting this mechanism reduces brain cell damage, hinting at a new therapeutic approach to mitigating the effects of prenatal Zika virus infection. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160506132202.jpg" height="266" width="300" />
+			<pubDate>Fri, 06 May 2016 13:22:02 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160506132202.htm</guid>
+		</item>
+		<item>
+			<title>How did birds get their wings? Bacteria may provide a clue, say scientists</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160506105654.htm</link>
+			<description>New research has used bacteria to show that acquiring duplicate copies of genes can provide a &#039;template&#039; allowing organisms to evolve novel traits from redundant copies of existing genes. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160506105654.jpg" height="155" width="300" />
+			<pubDate>Fri, 06 May 2016 10:56:54 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160506105654.htm</guid>
+		</item>
+		<item>
+			<title>Galaxy-sized peanuts? Astronomers use new imaging software to detect double ‘peanut shell’ galaxy</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160506100243.htm</link>
+			<description>Astronomers have discovered an unusually shaped structure in two nearby disc galaxies. Scientists recently developed new imaging software, making it possible to observe the double &quot;peanut shell shape&quot; formed by the distribution of stars bulging from the centers of these galaxies. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160506100243.jpg" height="264" width="300" />
+			<pubDate>Fri, 06 May 2016 10:02:43 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160506100243.htm</guid>
+		</item>
+		<item>
+			<title>First sensory system that detects air humidity described</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160506095826.htm</link>
+			<description>Most insects have dedicated sensory systems to detect water vapor in the air, but little has been known about how they work. Now researchers are the first to discover a sensory system that directly detects humidity. The scientists have identified key genes involved in the fruit fly&#039;s ability to detect changes in external humidity, and they also discovered the sensory neurons -- the fly&#039;s humidity receptors -- in a strange, small sac in the insect&#039;s antennae. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160506095826.jpg" height="225" width="300" />
+			<pubDate>Fri, 06 May 2016 09:58:26 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160506095826.htm</guid>
+		</item>
+		<item>
+			<title>&#039;Super males&#039; emerge from male-dominated populations, study finds</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160506095822.htm</link>
+			<description>Males who evolve in male-dominated populations become far better at securing females than those who grow up in monogamous populations, according to new research into the behavior of fruit flies. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160506095822.jpg" height="200" width="300" />
+			<pubDate>Fri, 06 May 2016 09:58:22 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160506095822.htm</guid>
+		</item>
+		<item>
+			<title>Continental drift created biologically diverse coral reefs</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160506095652.htm</link>
+			<description>An international research team has studied the geographical pattern of the evolution of corals and reef fish. Their findings show that today&#039;s geographical distribution of tropical marine diversity is the result of 100 million years of Earth history and the continental drifts that shifted the position of shallow reef habitats. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160506095652.jpg" height="225" width="300" />
+			<pubDate>Fri, 06 May 2016 09:56:52 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160506095652.htm</guid>
+		</item>
+		<item>
+			<title>Manipulation of specific neurons helps to erase bad memories, enhance good ones</title>
+			<link>https://www.sciencedaily.com/releases/2016/05/160505223113.htm</link>
+			<description>A step has been taken toward the possibility of tuning the strength of memory by manipulating one of the brain&#039;s signaling memory mechanisms, a neurotransmitter called acetylcholine. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/05/160505223113.jpg" height="200" width="300" />
+			<pubDate>Thu, 05 May 2016 22:31:13 EDT</pubDate>
+			<guid isPermaLink="true">https://www.sciencedaily.com/releases/2016/05/160505223113.htm</guid>
+		</item>
+	</channel>
+</rss>
+<!-- Page successfully written to cache. -->
+<!-- cached Wed, 11 May 2016 18:18:01 EDT -->

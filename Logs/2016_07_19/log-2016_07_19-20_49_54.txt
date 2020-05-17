@@ -1,0 +1,55 @@
+2016/07/19 20:49:55 Populate dia 
+2016/07/19 20:49:55 Populate events 
+2016/07/19 20:49:56 Populate gil 
+2016/07/19 20:49:58 Populate news 
+2016/07/19 20:50:01 Shuffle news 
+2016/07/19 20:50:02 Populate calendar 
+2016/07/19 20:50:03 Populate weather main 
+2016/07/19 20:50:07 Populate emprestimos 
+2016/07/19 20:50:08 Populate messages 
+2016/07/19 20:50:09 Acessou mapa 
+2016/07/19 20:50:11 Aplicou cartoons 
+2016/07/19 20:50:11 Baixou cartoons 
+2016/07/19 20:55:11 Apaga 
+2016/07/19 21:05:00 Populate weather main 
+2016/07/19 22:05:01 Populate weather main 
+2016/07/19 23:05:00 Populate weather main 
+2016/07/20 00:00:00 Populate dia 
+2016/07/20 00:00:01 Populate events 
+2016/07/20 00:00:01 Populate gil 
+2016/07/20 00:00:03 Populate news 
+2016/07/20 00:00:06 Shuffle news 
+2016/07/20 00:00:07 Populate calendar 
+2016/07/20 00:01:11 Populate emprestimos 
+2016/07/20 00:01:12 Populate messages 
+2016/07/20 00:02:17 Aplicou cartoons 
+2016/07/20 00:05:01 Populate weather main 
+2016/07/20 01:05:00 Populate weather main 
+2016/07/20 02:05:01 Populate weather main 
+2016/07/20 03:05:00 Populate weather main 
+2016/07/20 04:00:02 Shuffle news 
+2016/07/20 04:05:01 Populate weather main 
+2016/07/20 05:05:00 Populate weather main 
+2016/07/20 06:05:02 Populate weather main 
+2016/07/20 07:00:00 Mostra transito comp 
+2016/07/20 07:00:01 Populate transito 
+2016/07/20 07:00:01 Populate transito stat 
+2016/07/20 07:05:00 Populate weather main 
+2016/07/20 07:30:02 Populate transito 
+2016/07/20 07:30:02 Populate transito stat 
+2016/07/20 08:00:00 Populate transito 
+2016/07/20 08:00:00 Populate transito stat 
+2016/07/20 08:00:03 Shuffle news 
+2016/07/20 08:05:00 Populate weather main 
+2016/07/20 08:30:01 Populate transito 
+2016/07/20 08:30:01 Populate transito stat 
+2016/07/20 08:51:28 Aplicou cartoons 
+2016/07/20 08:51:52 Refresh map 
+2016/07/20 09:00:00 Populate transito 
+2016/07/20 09:00:00 Populate transito stat 
+2016/07/20 09:05:00 Populate weather main 
+2016/07/20 09:30:01 Populate transito 
+2016/07/20 09:30:01 Populate transito stat 
+2016/07/20 10:00:01 Populate transito 
+2016/07/20 10:00:01 Populate transito stat 
+2016/07/20 10:05:01 Populate weather main 

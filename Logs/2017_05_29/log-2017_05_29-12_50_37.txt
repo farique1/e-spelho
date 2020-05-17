@@ -1,0 +1,60 @@
+2017/05/29 12:50:39 Populate dia 
+2017/05/29 12:50:48 Populate events 
+2017/05/29 12:50:50 Populate gil 
+2017/05/29 12:50:57 Populate news 
+2017/05/29 12:51:00 Shuffle news 
+2017/05/29 12:51:02 Populate calendar 
+2017/05/29 12:51:16 Populate weather main 
+2017/05/29 12:51:20 Populate emprestimos 
+2017/05/29 12:51:23 Populate messages 
+2017/05/29 12:51:48 Acessou mapa 
+2017/05/29 12:52:01 Aplicou cartoons 
+2017/05/29 12:52:01 Baixou cartoons 
+2017/05/29 12:52:58 Aplicou cartoons 
+2017/05/29 12:53:01 Aplicou cartoons 
+2017/05/29 12:55:06 Refresh map 
+2017/05/29 13:05:02 Populate weather main 
+2017/05/29 14:05:14 Populate weather main 
+2017/05/29 15:05:00 Populate weather main 
+2017/05/29 16:00:02 Shuffle news 
+2017/05/29 16:05:01 Populate weather main 
+2017/05/29 17:05:00 Populate weather main 
+2017/05/29 18:05:01 Populate weather main 
+2017/05/29 19:05:00 Populate weather main 
+2017/05/29 20:00:02 Shuffle news 
+2017/05/29 20:05:01 Populate weather main 
+2017/05/29 21:05:00 Populate weather main 
+2017/05/29 22:05:01 Populate weather main 
+2017/05/29 23:05:00 Populate weather main 
+2017/05/30 00:00:01 Populate dia 
+2017/05/30 00:00:01 Populate events 
+2017/05/30 00:00:02 Populate gil 
+2017/05/30 00:00:03 Populate news 
+2017/05/30 00:00:05 Shuffle news 
+2017/05/30 00:00:08 Populate calendar 
+2017/05/30 00:00:12 Populate emprestimos 
+2017/05/30 00:00:14 Populate messages 
+2017/05/30 00:00:19 Aplicou cartoons 
+2017/05/30 00:05:02 Populate weather main 
+2017/05/30 01:05:00 Populate weather main 
+2017/05/30 02:05:01 Populate weather main 
+2017/05/30 03:05:00 Populate weather main 
+2017/05/30 04:00:02 Shuffle news 
+2017/05/30 04:05:01 Populate weather main 
+2017/05/30 05:05:00 Populate weather main 
+2017/05/30 06:05:01 Populate weather main 
+2017/05/30 07:00:00 Mostra transito comp 
+2017/05/30 07:00:01 Populate transito 
+2017/05/30 07:00:01 Populate transito stat 
+2017/05/30 07:05:00 Populate weather main 
+2017/05/30 07:30:01 Populate transito 
+2017/05/30 07:30:01 Populate transito stat 
+2017/05/30 08:00:01 Populate transito 
+2017/05/30 08:00:01 Populate transito stat 
+2017/05/30 08:00:03 Shuffle news 
+2017/05/30 08:05:01 Populate weather main 
+2017/05/30 08:30:10 Populate transito 
+2017/05/30 08:30:11 Populate transito stat 
+2017/05/30 09:00:17 Populate transito 
+2017/05/30 09:00:18 Populate transito stat 
+2017/05/30 09:05:00 Populate weather main 

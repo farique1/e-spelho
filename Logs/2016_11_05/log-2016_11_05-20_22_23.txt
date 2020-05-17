@@ -1,0 +1,31 @@
+2016/11/05 20:22:25 Populate dia 
+2016/11/05 20:22:25 Populate events 
+2016/11/05 20:22:27 Populate gil 
+2016/11/05 20:22:29 Populate news 
+2016/11/05 20:22:31 Shuffle news 
+2016/11/05 20:22:32 Populate calendar 
+2016/11/05 20:22:34 Populate weather main 
+2016/11/05 20:22:37 Populate emprestimos 
+2016/11/05 20:22:39 Populate messages 
+2016/11/05 20:22:42 Acessou mapa 
+2016/11/05 20:22:54 Aplicou cartoons 
+2016/11/05 20:22:54 Baixou cartoons 
+2016/11/05 21:05:00 Populate weather main 
+2016/11/05 22:05:03 Populate weather main 
+2016/11/05 23:05:00 Populate weather main 
+2016/11/06 00:00:00 Populate dia 
+2016/11/06 00:00:02 Populate events 
+2016/11/06 00:00:02 Populate gil 
+2016/11/06 00:00:02 Populate news 
+2016/11/06 00:00:05 Shuffle news 
+2016/11/06 00:00:06 Populate calendar 
+2016/11/06 00:00:10 Populate emprestimos 
+2016/11/06 00:00:12 Populate messages 
+2016/11/06 00:00:15 Aplicou cartoons 
+2016/11/06 00:05:01 Populate weather main 
+2016/11/06 01:05:00 Populate weather main 
+2016/11/06 02:05:02 Populate weather main 
+2016/11/06 03:05:00 Populate weather main 
+2016/11/06 04:00:02 Shuffle news 
+2016/11/06 04:05:02 Populate weather main 
+2016/11/06 05:05:00 Populate weather main 

@@ -1,0 +1,32 @@
+2016/07/22 16:10:07 Populate dia 
+2016/07/22 16:10:07 Populate events 
+2016/07/22 16:10:07 Populate gil 
+2016/07/22 16:10:07 Populate news 
+2016/07/22 16:10:07 Shuffle news 
+2016/07/22 16:10:07 Populate calendar 
+2016/07/22 16:10:08 Populate weather main 
+2016/07/22 16:10:08 Populate emprestimos 
+2016/07/22 16:10:08 Populate messages 
+2016/07/22 16:10:08 Acessou mapa 
+2016/07/22 16:10:10 Aplicou cartoons 
+2016/07/22 16:10:10 Baixou cartoons 
+2016/07/22 16:15:10 Apaga 
+2016/07/22 17:05:00 Populate weather main 
+2016/07/22 17:27:26 Aplicou cartoons 
+2016/07/22 17:27:27 Aplicou cartoons 
+2016/07/22 17:27:28 Aplicou cartoons 
+2016/07/22 17:27:28 Aplicou cartoons 
+2016/07/22 17:27:28 Aplicou cartoons 
+2016/07/22 18:05:00 Populate weather main 
+2016/07/22 19:05:00 Populate weather main 
+2016/07/22 20:00:00 Shuffle news 
+2016/07/22 20:05:00 Populate weather main 
+2016/07/22 21:03:47 Aplicou cartoons 
+2016/07/22 21:03:48 Aplicou cartoons 
+2016/07/22 21:03:49 Aplicou cartoons 
+2016/07/22 21:03:51 Aplicou cartoons 
+2016/07/22 21:04:14 Refresh map 
+2016/07/22 21:04:28 Aplicou cartoons 
+2016/07/22 21:04:28 Refresh map 
+2016/07/22 21:04:39 Aplicou cartoons 
+2016/07/22 21:05:00 Populate weather main 

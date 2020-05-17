@@ -1,0 +1,16 @@
+2017/01/02 12:03:47 Populate dia 
+2017/01/02 12:03:48 Populate events 
+2017/01/02 12:03:50 Populate gil 
+2017/01/02 12:03:53 Populate news 
+2017/01/02 12:03:56 Shuffle news 
+2017/01/02 12:03:57 Populate calendar 
+2017/01/02 12:04:03 Populate weather main 
+2017/01/02 12:04:05 Populate emprestimos 
+2017/01/02 12:04:07 Populate messages 
+2017/01/02 12:04:15 Acessou mapa 
+2017/01/02 12:04:19 Aplicou cartoons 
+2017/01/02 12:04:19 Baixou cartoons 
+2017/01/02 12:05:41 Aplicou cartoons 
+2017/01/02 12:05:42 Aplicou cartoons 
+2017/01/02 12:06:13 Aplicou cartoons 
+2017/01/02 12:06:14 Aplicou cartoons 

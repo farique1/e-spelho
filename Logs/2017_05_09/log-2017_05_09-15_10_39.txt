@@ -1,0 +1,6 @@
+2017/05/09 15:10:41 Populate dia 
+2017/05/09 15:10:41 Populate events 
+2017/05/09 15:10:43 Populate gil 
+2017/05/09 15:10:46 Populate news 
+2017/05/09 15:10:48 Shuffle news 
+2017/05/09 15:10:50 Populate calendar 

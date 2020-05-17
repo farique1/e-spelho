@@ -1,0 +1,15 @@
+2017/05/30 11:18:13 Populate dia 
+2017/05/30 11:18:14 Populate transito 
+2017/05/30 11:18:14 Populate transito stat 
+2017/05/30 11:18:17 Populate gil 
+2017/05/30 11:18:18 Populate news 
+2017/05/30 11:18:20 Shuffle news 
+2017/05/30 11:18:22 Populate calendar 
+2017/05/30 11:18:24 Populate weather main 
+2017/05/30 11:18:27 Populate emprestimos 
+2017/05/30 11:18:28 Populate messages 
+2017/05/30 11:18:35 Acessou mapa 
+2017/05/30 11:18:42 Aplicou cartoons 
+2017/05/30 11:18:42 Baixou cartoons 
+2017/05/30 11:30:01 Populate transito 
+2017/05/30 11:30:01 Populate transito stat 

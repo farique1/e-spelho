@@ -1,0 +1,53 @@
+2017/05/06 10:17:05 Populate dia 
+2017/05/06 10:17:05 Populate events 
+2017/05/06 10:17:07 Populate gil 
+2017/05/06 10:17:08 Populate news 
+2017/05/06 10:17:11 Shuffle news 
+2017/05/06 10:17:12 Populate calendar 
+2017/05/06 10:17:14 Populate weather main 
+2017/05/06 10:17:18 Populate emprestimos 
+2017/05/06 10:17:20 Populate messages 
+2017/05/06 10:17:27 Acessou mapa 
+2017/05/06 10:17:35 Aplicou cartoons 
+2017/05/06 10:17:35 Baixou cartoons 
+2017/05/06 10:17:57 Aplicou cartoons 
+2017/05/06 10:18:21 Refresh map 
+2017/05/06 11:05:00 Populate weather main 
+2017/05/06 12:00:02 Shuffle news 
+2017/05/06 12:05:01 Populate weather main 
+2017/05/06 13:05:00 Populate weather main 
+2017/05/06 14:05:01 Populate weather main 
+2017/05/06 15:05:00 Populate weather main 
+2017/05/06 16:00:02 Shuffle news 
+2017/05/06 16:05:01 Populate weather main 
+2017/05/06 17:05:00 Populate weather main 
+2017/05/06 18:05:01 Populate weather main 
+2017/05/06 19:05:00 Populate weather main 
+2017/05/06 20:00:02 Shuffle news 
+2017/05/06 20:05:01 Populate weather main 
+2017/05/06 21:05:00 Populate weather main 
+2017/05/06 22:05:01 Populate weather main 
+2017/05/06 23:05:00 Populate weather main 
+2017/05/07 00:00:01 Populate dia 
+2017/05/07 00:00:01 Populate events 
+2017/05/07 00:00:02 Populate gil 
+2017/05/07 00:00:02 Populate news 
+2017/05/07 00:00:05 Shuffle news 
+2017/05/07 00:00:09 Populate calendar 
+2017/05/07 00:00:13 Populate emprestimos 
+2017/05/07 00:00:16 Populate messages 
+2017/05/07 00:00:52 Aplicou cartoons 
+2017/05/07 00:05:01 Populate weather main 
+2017/05/07 01:05:00 Populate weather main 
+2017/05/07 02:05:01 Populate weather main 
+2017/05/07 03:05:00 Populate weather main 
+2017/05/07 04:00:02 Shuffle news 
+2017/05/07 04:05:01 Populate weather main 
+2017/05/07 05:05:00 Populate weather main 
+2017/05/07 06:05:01 Populate weather main 
+2017/05/07 07:05:00 Populate weather main 
+2017/05/07 08:00:02 Shuffle news 
+2017/05/07 08:05:01 Populate weather main 
+2017/05/07 09:05:00 Populate weather main 
+2017/05/07 09:29:52 Aplicou cartoons 
+2017/05/07 09:30:29 Refresh map 

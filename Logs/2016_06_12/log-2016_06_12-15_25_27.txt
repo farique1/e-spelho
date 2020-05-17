@@ -1,0 +1,11 @@
+2016/06/12 15:25:28 Populate dia 
+2016/06/12 15:25:30 Populate events 
+2016/06/12 15:25:30 Populate gil 
+2016/06/12 15:25:30 Populate news 
+2016/06/12 15:25:30 Populate calendar 
+2016/06/12 15:25:30 Populate weather main 
+2016/06/12 15:25:30 Populate weather forecast 
+2016/06/12 15:25:30 Populate emprestimos 
+2016/06/12 15:25:30 Populate messages 
+2016/06/12 15:25:31 Populate weather main 
+2016/06/12 15:26:00 Apaga transito comp 

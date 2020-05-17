@@ -1,0 +1,16 @@
+2016/07/01 09:54:35 Populate dia 
+2016/07/01 09:54:35 Populate transito 
+2016/07/01 09:54:35 Populate transito stat 
+2016/07/01 09:54:35 Populate gil 
+2016/07/01 09:54:35 Populate news 
+2016/07/01 09:54:35 Shuffle news 
+2016/07/01 09:54:35 Populate calendar 
+2016/07/01 09:54:36 Populate weather main 
+2016/07/01 09:54:36 Populate emprestimos 
+2016/07/01 09:54:36 Populate messages 
+2016/07/01 09:54:39 Acessou mapa 
+2016/07/01 09:54:43 Aplicou cartoons 
+2016/07/01 09:54:43 Baixou cartoons 
+2016/07/01 09:59:43 Apaga 
+2016/07/01 10:00:00 Populate transito 
+2016/07/01 10:00:00 Populate transito stat 
