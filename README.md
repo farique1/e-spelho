@@ -19,10 +19,11 @@ Last mockup, early prototype and "finished" product.
   
 ![Prototypes](https://github.com/farique1/e-spelho/blob/master/Images/GitHub_Prototype.jpg)  
 GUI test: main screen, cartoons and traffic map.  
+  
+<img src="https://github.com/farique1/e-spelho/blob/master/Images/GitHub_Youtube.png" alt="Youtube Video" width="800" height="450">  
 
-[![Video](https://github.com/farique1/e-spelho/blob/master/Images/GitHub_Youtube.jpg)](https://youtu.be/ovK2uJhMNeM)
-Video
-
+[Youtube](https://github.com/farique1/e-spelho/blob/master/Images/GitHub_Youtube.jpg)  
+  
 ## The system  
   
 The system is composed of a main **Autoit** script running several modules at different time intervals (I am calling them modules but they are actually just functions). Each module has its own characteristics and get its information from several different sources on several different ways. Most of them uses plain text files (several examples included for convenience) to store information and communicate with their support mechanisms. Among the tools used to gather and parse information where several site APIs, a very simple web server, IFTTT, RSSs, a mobile app and the such.  
