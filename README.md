@@ -20,9 +20,8 @@ Last mockup, early prototype and "finished" product.
 ![Prototypes](https://github.com/farique1/e-spelho/blob/master/Images/GitHub_Prototype.jpg)  
 GUI test: main screen, cartoons and traffic map.  
   
-<img src="https://github.com/farique1/e-spelho/blob/master/Images/GitHub_Youtube.png" alt="Youtube Video" width="800" height="450">  
-
-[Youtube](https://github.com/farique1/e-spelho/blob/master/Images/GitHub_Youtube.jpg)  
+<img src="https://github.com/farique1/e-spelho/blob/master/Images/GitHub_Youtube.jpg" alt="Youtube Video" width="400" height="225">  
+[Youtube](https://youtu.be/ovK2uJhMNeM)  
   
 ## The system  
   
