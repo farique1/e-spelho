@@ -12,14 +12,17 @@ My hardware implementation was done using an old notebook monitor, an excellent 
 >Please be advised **the published code is by no means functional** "out of the box". It's been years since I last run it and I don't have access to a Windows box to test. I blindly edited it (to translate some things, add minimal comments and remove the several API keys) and  the whole system worked as a hodgepodge of auxiliary tools outside of the code itself.  
 It is posted as an inspiration and/or foundation from where to build upon. It has some very good ideas (even if not very good implemantation) and the coding is somewhat there to steal from.  
   
-I won't discuss the hardware here.  
+>I won't discuss the hardware here.  
   
 ![Versions](https://github.com/farique1/e-spelho/blob/master/Images/GitHub_Versions.jpg)  
 Last mockup, early prototype and "finished" product.  
   
 ![Prototypes](https://github.com/farique1/e-spelho/blob/master/Images/GitHub_Prototype.jpg)  
-Guy test. Main screen, Cartoons and traffic map.  
-  
+GUI test: main screen, cartoons and traffic map.  
+
+[![Video](https://github.com/farique1/e-spelho/blob/master/Images/GitHub_Youtube.jpg)](https://youtu.be/ovK2uJhMNeM)
+Video
+
 ## The system  
   
 The system is composed of a main **Autoit** script running several modules at different time intervals (I am calling them modules but they are actually just functions). Each module has its own characteristics and get its information from several different sources on several different ways. Most of them uses plain text files (several examples included for convenience) to store information and communicate with their support mechanisms. Among the tools used to gather and parse information where several site APIs, a very simple web server, IFTTT, RSSs, a mobile app and the such.  
