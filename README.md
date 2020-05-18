@@ -21,7 +21,8 @@ Last mockup, early prototype and "finished" product.
 GUI test: main screen, cartoons and traffic map.  
   
 <img src="https://github.com/farique1/e-spelho/blob/master/Images/GitHub_Youtube.jpg" alt="Youtube Video" width="400" height="225">  
-[Youtube](https://youtu.be/ovK2uJhMNeM)  
+
+[In aciotn (not a lot)](https://youtu.be/ovK2uJhMNeM)  
   
 ## The system  
   
