@@ -73,6 +73,7 @@ This was fed via a web page with fields for person, the thing and the day. A PHP
 At last, at the bottom of the mirror, there was a module that showed a random greeting, pieced together from pre made Title, Greetings and Compliments lists and a messenger module that anyone could use to send a short message that would be displayed there, with the sender name, on the appointed day. If there were more than one message they would cycle and the total and current number was shown below. I did this so I would not forget to take important things to work in the morning but as this was open to the public (also via a web page and PHP script) you can imagine it degenerated quickly!  
   
 <img src="https://github.com/farique1/e-spelho/blob/master/Images/GitHub_SupportSite.png" alt="Support Site" width="1037" height="349">  
+Some of the web pages used.  
   
 - **Cartoon display**  
   
