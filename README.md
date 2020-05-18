@@ -75,6 +75,7 @@ At last, at the bottom of the mirror, there was a module that showed a random gr
 <img src="https://github.com/farique1/e-spelho/blob/master/Images/GitHub_SupportSite.png" alt="Support Site" width="1037" height="349">  
 Some of the web pages used.  
   
+  
 - **Cartoon display**  
   
 By pressing the mouse button (this would later be implemented as a touch action on the mirror frame) the whole GUI would be replaced by a screen with the latest XKCD and SMBC cartoons. There was an algorithm to better fit them together on the screen according to their dimensions. They both have simple APIs and RSSs, the fetching was done on the code itself.  
