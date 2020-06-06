@@ -1,4 +1,0 @@
-2016/06/11 18:46:41 Populate dia 
-2016/06/11 18:46:41 Populate transito 
-2016/06/11 18:46:41 Populate transito stat 
-2016/06/11 18:46:41 Populate gil 

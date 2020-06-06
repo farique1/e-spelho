@@ -1,8 +1,0 @@
-2016/10/31 07:40:15 Populate dia 
-2016/10/31 07:40:17 Populate transito 
-2016/10/31 07:40:17 Populate transito stat 
-2016/10/31 07:40:19 Populate gil 
-2016/10/31 07:40:21 Populate news 
-2016/10/31 07:40:24 Shuffle news 
-2016/10/31 07:40:25 Populate calendar 
-2016/10/31 07:40:27 Populate weather main 

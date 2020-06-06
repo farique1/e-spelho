@@ -1,5 +1,0 @@
-2016/06/22 19:59:29 Populate dia 
-2016/06/22 19:59:29 Populate events 
-2016/06/22 19:59:29 Populate gil 
-2016/06/22 19:59:29 Populate news 
-2016/06/22 19:59:29 Populate calendar 

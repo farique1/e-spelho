@@ -1,9 +1,0 @@
-2016/06/27 06:39:36 Populate dia 
-2016/06/27 06:39:36 Populate events 
-2016/06/27 06:39:37 Populate gil 
-2016/06/27 06:39:40 Populate news 
-2016/06/27 06:39:41 Populate calendar 
-2016/06/27 06:40:06 Populate weather main 
-2016/06/27 06:40:10 Populate emprestimos 
-2016/06/27 06:40:12 Populate messages 
-2016/06/27 06:40:16 Acessou mapa 

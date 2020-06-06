@@ -1,5 +1,0 @@
-2016/09/28 08:37:24 Populate dia 
-2016/09/28 08:37:27 Populate transito 
-2016/09/28 08:37:27 Populate transito stat 
-2016/09/28 08:37:46 Populate gil 
-2016/09/28 08:38:05 Populate news 

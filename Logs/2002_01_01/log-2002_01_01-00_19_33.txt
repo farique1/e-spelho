@@ -1,6 +1,0 @@
-2002/01/01 00:19:33 Populate dia 
-2002/01/01 00:19:33 Populate events 
-2002/01/01 00:19:33 Populate gil 
-2002/01/01 00:19:33 Populate news 
-2002/01/01 00:19:33 Shuffle news 
-2002/01/01 00:19:33 Populate calendar 

@@ -1,6 +1,0 @@
-2016/06/28 20:47:45 Populate dia 
-2016/06/28 20:47:45 Populate events 
-2016/06/28 20:47:45 Populate gil 
-2016/06/28 20:47:45 Populate news 
-2016/06/28 20:47:45 Shuffle news 
-2016/06/28 20:47:45 Populate calendar 

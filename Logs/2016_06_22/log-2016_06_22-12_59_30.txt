@@ -1,2 +1,0 @@
-2016/06/22 12:59:30 Populate weather main 
-2016/06/22 12:59:30 Populate weather forecast 
