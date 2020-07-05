@@ -6,19 +6,12 @@
   
 ## What is it  
 **e-spelho** (*espelho* means mirror in Portuguese) is a smart mirror "engine" module tasked with delivering timed, organized, standardized information to an external application, most likely a graphical front end.  
-The engine format came as an answer to the limitation of the [prototype](https://github.com/farique1/e-spelho/Autoit version) that, being an Autoit script, was limited to run on a full Windows installation and nothing else.  
+The engine format came as an answer to the limitation of the [prototype](Autoit%20version) that, being an Autoit script, was limited to run on a full Windows installation and nothing else.  
 Having a Python module worry about the collection, formatting and timely delivery of the data makes the integration on a variety of platforms and environments only a question of implementing a front-end, be it on Windows, Mac, Linux, Raspberry or even on mobile or a browse through a web server.  
   
->Below are some photos of the prototype implementation and hardware.  
->Some modules shown here are not implemented on the final engine.  
+>Below is the prototype implementation and hardware, some modules shown are not implemented on the final engine.  
   
-![Versions](/Autoit version/Images/GitHub_Versions.jpg)  
-Last mockup, early prototype and "finished" product.  
-  
-![Prototypes](/Autoit version/Images/GitHub_Prototype.jpg)  
-GUI test: main screen, cartoons and traffic map.  
-  
-<img src="https://github.com/farique1/e-spelho/blob/master/Autoit version/Images/GitHub_Youtube.jpg" alt="Youtube Video" width="400" height="225">  
+<img src="Autoit version/Images/GitHub_Youtube.jpg" alt="Youtube Video" width="400" height="225">  
   
 [In aciotn (not a lot)](https://youtu.be/ovK2uJhMNeM)  
   
@@ -30,7 +23,7 @@ The engine is a Python module imported on a main application, it works trough a 
   
 The information is collected from a variety of sources, including several APIs and custom Google Sheets. These APIs are not provided and must be created and/or acquired beforehand, the code implementation makes them easy to integrate and each requirement is explained below on its own module breakup.  
   
-A description of the exported data list for each module can be found in the [output data description page](Data-Output.md). The first item in each list is always a status number with `0` meaning all is ok and `1` meaning a problem, more codes are planned but not implemented yet. Subsequent items on the list are explained in the data description page and some have a variable length according to the availability of the data.  
+A description of the exported data list for each module can be found in the [output data description page](DataOutput.md). The first item in each list is always a status number with `0` meaning all is ok and `1` meaning a problem, more codes are planned but not implemented yet. Subsequent items on the list are explained in the data description page and some have a variable length according to the availability of the data.  
 Here is the *Clock* module data output list example:  
 ```  
 [0] Status - integer  
@@ -60,7 +53,7 @@ mirror = es.Espelho(
     ui_message=local_message  
 )  
 ```  
->Note the missing `comics` module. Its is not needed in this example.  
+>Note the missing *Comics* module. Its is not needed in this example.  
   
 The modules can then be initialised with:  
 ```Python  
@@ -82,7 +75,7 @@ Internally the modules are called through the `timer` method on the `Espelho` cl
 ## Modules  
   
 Below are descriptions of each module and its requirement.  
-For a full description of each module output see the [data lists](Data-Output.md).  
+For a full description of each module output see the [data lists](DataOutput.md).  
   
 - **Clock**  
   
