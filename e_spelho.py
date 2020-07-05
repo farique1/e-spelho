@@ -44,7 +44,7 @@ from google.auth.transport.requests import Request
 from google_auth_oauthlib.flow import InstalledAppFlow
 
 # DEBUG variables
-DEBUG = True
+DEBUG = False
 if DEBUG:
     DB_nm_log = True  # Simpler name for the log file
     DB_lp_sec = '%S'  # should be '%S'  Second length g
