@@ -1,5 +1,5 @@
   
-<img src="https://github.com/farique1/e-spelho/blob/master/Images/GitHub_e-spelho.png" alt="e-spelho" width="300" height="80">  
+<img src="../Images/GitHub_e-spelho.png" alt="e-spelho" width="300" height="80">  
   
 # e-spelho   
   
@@ -14,13 +14,13 @@ It is posted as an inspiration and/or foundation from where to build upon. It ha
   
 >I won't further discuss the hardware here.  
   
-![Versions](https://github.com/farique1/e-spelho/blob/master/Images/GitHub_Versions.jpg)  
+![Versions](Images/GitHub_Versions.jpg)  
 Last mockup, early prototype and "finished" product.  
   
-![Prototypes](https://github.com/farique1/e-spelho/blob/master/Images/GitHub_Prototype.jpg)  
+![Prototypes](Images/GitHub_Prototype.jpg)  
 GUI test: main screen, cartoons and traffic map.  
   
-<img src="https://github.com/farique1/e-spelho/blob/master/Images/GitHub_Youtube.jpg" alt="Youtube Video" width="400" height="225">  
+<img src="Images/GitHub_Youtube.jpg" alt="Youtube Video" width="400" height="225">  
 
 [In aciotn (not a lot)](https://youtu.be/ovK2uJhMNeM)  
   
@@ -72,7 +72,7 @@ This was fed via a web page with fields for person, the thing and the day. A PHP
   
 At last, at the bottom of the mirror, there was a module that showed a random greeting, pieced together from pre made Title, Greetings and Compliments lists and a messenger module that anyone could use to send a short message that would be displayed there, with the sender name, on the appointed day. If there were more than one message they would cycle and the total and current number was shown below. I did this so I would not forget to take important things to work in the morning but as this was open to the public (also via a web page and PHP script) you can imagine it degenerated quickly!  
   
-<img src="https://github.com/farique1/e-spelho/blob/master/Images/GitHub_SupportSite.png" alt="Support Site" width="1037" height="349">  
+<img src="Images/GitHub_SupportSite.png" alt="Support Site" width="1037" height="349">  
 
 Some of the web pages used.  
   
@@ -93,7 +93,7 @@ Later I added an option to turn off the monitor if there were nobody there. This
 Amazingly it took me a few days to realize having a webcam on my bathroom was not a good idea! I fixed that by covering the lens with an opaque plastic, folding it just the amount needed to detect motion without really showing anything.  
 Anyway, I regretted this as after that (could've been a coincidence) the screen started to deteriorate, maybe due to internal condensation caused by not enough warmth.  
   
-<img src="https://github.com/farique1/e-spelho/blob/master/Images/GitHub_ScreenRot.jpg" alt="Screen rot" width="320" height="399">  
+<img src="Images/GitHub_ScreenRot.jpg" alt="Screen rot" width="320" height="399">  
 Pictured: Screen rot  
   
 ## Conclusion  
