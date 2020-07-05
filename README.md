@@ -1,5 +1,3 @@
-  
-  
 <img src="/Images/GitHub_e-spelho.png" alt="e-spelho" width="300" height="80">  
   
 # e-spelho  
